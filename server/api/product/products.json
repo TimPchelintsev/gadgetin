@@ -1,0 +1,5131 @@
+[{
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/619/61903403.jpg",
+    "company": "ASUS",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Intel Atom Z2580 + GPU PowerVR SGX 544MP2"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "ZenFone 5 (Charcoal"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/248/24800183.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,2\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8974AB) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat)"
+    }],
+    "name": "Xperia Z2"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/709/70981653.jpg",
+    "company": "HTC",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super LCD3"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat), HTC Sense 6 UI, HTC Blinkfeed"
+    }],
+    "name": "One (E8)"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/867/86721713.jpg",
+    "company": "Meizu",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,36\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS (New Mode2)"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920\u04451152",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Mediatek MT6595 + GPU PowerVR G6200MP4"
+    }, {
+        "name": "number of cores",
+        "value": "4 + 4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 (Sony Exmor IMX220) \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.4 (KitKat) + Flyme 4.0"
+    }],
+    "name": "MX4 32GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/326/32687053.jpg",
+    "company": "HTC",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gray",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super LCD3"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8974AB) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "4 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat) + HTC Sense, BlinkFeed"
+    }],
+    "name": "One (M8) Gunmetal"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/619/61903513.jpg",
+    "company": "ASUS",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Intel Atom Z2580 + GPU PowerVR SGX 544MP2"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "ZenFone 5 (Pearl"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/395/39575963.jpg",
+    "company": "OnePlus",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "64 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8974AC) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (CyanogenMod 11S)"
+    }],
+    "name": "One 64GB (Sandstone"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/116/11646283.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 MSM8974 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean)"
+    }],
+    "name": "Xperia Z1 C6902"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/340/34087213.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 (MSM8226) + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 Kitkat"
+    }],
+    "name": "D405 L90"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/855/85553143.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gray",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A8 + GPU PowerVR GX6650"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Apple iOS 8"
+    }],
+    "name": "iPhone 6 Plus 16GB (Space"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/477/47708413.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "2560x1440",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8975AC) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "D855 G3 16GB (Metallic"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/394/39483083.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,3\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 200 MSM8210 + GPU Adreno 302"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "D285 L65 Dual"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/651/65125783.jpg",
+    "company": "Xiaomi",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16/64 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 MSM8974AC + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat) + MIUI v6"
+    }],
+    "name": "Mi-4"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/420/42004513.jpg",
+    "company": "HUAWEI",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "HiSilicon Kirin 910T + GPU Mali-450 MP"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat) + Huawei Emotion UI 2.3"
+    }],
+    "name": "Ascend P7"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/951/95194543.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,2\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS TRILUMINOS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "Xperia Z3"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/741/7416083.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1136x640",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A6 + GPU PowerVR SGX 543 MP3"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "iOS"
+    }],
+    "name": "iPhone 5 32GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/245/24530833.jpg",
+    "company": "HUAWEI",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 (MSM8926) + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "Ascend G6"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/587/58735853.jpg",
+    "company": "HTC",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM + Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6592 + GPU Mali-450MP4"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 + HTC Sense 5.5"
+    }],
+    "name": "Desire 616 Dual Sim"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/215/21573193.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "6\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6592+ GPU Mali-450MP4"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2.2 (Jelly Bean)"
+    }],
+    "name": "IdeaPhone S939"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/461/46117273.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "854x480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Spreadtrum SC8825 + GPU Mali-400\u041c\u04202"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.0"
+    }],
+    "name": "IdeaPhone A398t"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/619/61903453.jpg",
+    "company": "ASUS",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Red",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Intel Atom Z2580 + GPU PowerVR SGX 544MP2"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "ZenFone 5 (Cherry"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/104/10401633.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gray",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 200 MSM8625Q + GPU Adreno 203"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean) + \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 TouchWiz UI"
+    }],
+    "name": "I8552 Galaxy Win (Titan"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/395/39576013.jpg",
+    "company": "OnePlus",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8974AC) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (CyanogenMod 11S)"
+    }],
+    "name": "One 16GB (Silk"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/122/12215443.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,95\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "Nexus 5 32GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/122/12215243.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,95\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "Nexus 5 16GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/631/63156553.jpg",
+    "company": "Xiaomi",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 MSM8228 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean) + MIUI v5"
+    }],
+    "name": "Hongmi Redmi 1S"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/115/11564653.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,2\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "True HD IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 MSM8974 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean)"
+    }],
+    "name": "G2 16GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/461/46116953.jpg",
+    "company": "GIGABYTE",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6572 + GPU Mali-400"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean)"
+    }],
+    "name": "GSmart T4"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/703/70330873.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Grey",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,3\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Mediatek MT6592M + GPU Mali-450MP4"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2.2 (Jelly Bean)"
+    }],
+    "name": "S8/S898T+"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/829/8294403.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Mist",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super AMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16/32/64 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Samsung Exynos 5 Octa 5410 + GPU PowerVR SGX 544 MP3"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "4.2 (Jelly Bean) + \u0444\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 TouchWiz"
+    }],
+    "name": "I9500 Galaxy S4 (Black"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/112/11292453.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "FHD sAMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Samsung Exynos Octa 5420 + GPU Mali-T628 MP6"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "N9000 Galaxy Note 3"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/111/11173833.jpg",
+    "company": "Nokia",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S4 Plus MSM8930 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Windows Phone 8 (\u0441 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u043c \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0434\u043e WP8 Amber)"
+    }],
+    "name": "Lumia 625"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/735/7351673.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "3,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "640x960",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A4 + GPU PowerVR SGX 535"
+    }, {
+        "name": "number of cores",
+        "value": "1"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "iOS"
+    }],
+    "name": "iPhone 4 8GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/900/9000363.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6589 + GPU PowerVR SGX 544"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean)"
+    }],
+    "name": "IdeaPhone A820"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/115/11536283.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,2\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "True HD IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 MSM8974 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean)"
+    }],
+    "name": "G2 32GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/119/11977533.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "FHD sAMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "N9005 Galaxy Note 3 32GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/762/7621943.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "3,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "640x960",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A5 + GPU PowerVR SGX 543 MP2"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "iOS"
+    }],
+    "name": "iPhone 4S 16GB NeverLock"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/523/52359283.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,8\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super AMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 (MSM8226) + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3(Jelly Bean)"
+    }],
+    "name": "I9300i Galaxy S3 Duos"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/675/67588283.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gold",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 8226 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat)"
+    }],
+    "name": "D724 G3 s (Shine"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/845/84583033.jpg",
+    "company": "Motorola",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8/16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 MSM8226 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.4 (KitKat)"
+    }],
+    "name": "Moto G (2nd. Gen)"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/579/57903263.jpg",
+    "company": "Xiaomi",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Mediatek MT6592 + GPU Mali-450MP4"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2.2"
+    }],
+    "name": "Redmi Note"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/737/7374043.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "16GB",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,8\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super AMOLED (Pen Tile)"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Samsung Exynos 4412 + GPU Mali 400 MP4"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.0 (ICS) + \u0444\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 TouchWiz"
+    }],
+    "name": "I9300 Galaxy SIII (White)"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/115/11593573.jpg",
+    "company": "HUAWEI",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Pink",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "HiSilicon K3V2 + GPU Vivante GC4000"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean) + \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0430 Emotion UI"
+    }],
+    "name": "Ascend P6-U06"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/893/89394343.jpg",
+    "company": "Prestigio",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "DUO",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "720x1280",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 200 MSM8212 + GPU Adreno 302"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Windows Phone 8.1"
+    }],
+    "name": "MultiPhone 8500"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/119/11994273.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gray",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1136x640",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A7 + GPU PowerVR G6430"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "iOS"
+    }],
+    "name": "iPhone 5S 32GB (Space"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/855/85553083.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gray",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "128 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A8 + GPU PowerVR GX6650"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Apple iOS 8"
+    }],
+    "name": "iPhone 6 Plus 128GB (Space"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/394/39483123.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,3\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 200 MSM8210 + GPU Adreno 302"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "D285 L65 Dual"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/567/56785023.jpg",
+    "company": "Fly",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Broadcom 23550 + GPU VideoCore IV"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean)"
+    }],
+    "name": "IQ4491 ERA Life 3"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/101/10194433.jpg",
+    "company": "HTC",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super LCD 3"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 600 APQ8064T + GPU Adreno 320"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "4 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean) + \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 HTC Sense UI v5"
+    }],
+    "name": "One 801e"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/115/11544623.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "3,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "640x960",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A5 + GPU PowerVR SGX 543 MP2"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "iOS"
+    }],
+    "name": "iPhone 4S 8GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/107/10786823.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,3\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super AMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8/16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "4.2 (Jelly Bean) + \u0444\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 TouchWiz"
+    }],
+    "name": "I9192 Galaxy S4 Mini Duos"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/301/30199343.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 MSM8226 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 Kitkat"
+    }],
+    "name": "D410 L90 Dual"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/747/74770293.jpg",
+    "company": "Acer",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "3 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6582 + GPU Mali-400MP2"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat) + AcerFLOAT UI"
+    }],
+    "name": "Liquid E700"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/734/7341773.jpg",
+    "company": "HTC",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S1 MSM7227A + GPU Adreno 200"
+    }, {
+        "name": "number of cores",
+        "value": "1"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.0 (ICS) \u0441 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u043c HTC Sense 4"
+    }],
+    "name": "Desire V"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/340/34087633.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 (MSM8226) + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 Kitkat"
+    }],
+    "name": "D405 L90"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/477/47708353.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "2560x1440",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8975AC) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "D855 G3 32GB (Metallic"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/131/13138393.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Silver",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek \u041c\u04226582 + GPU Mali-400 MP2"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean)"
+    }],
+    "name": "IdeaPhone S650"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/101/10198093.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "854x480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S4 Plus MSM8227 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean)"
+    }],
+    "name": "Xperia M"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/285/28599203.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 MSM8226 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 Kitkat"
+    }],
+    "name": "D410 L90 Dual"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/688/68894313.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Blue",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6582 + GPU Mali-400MP2"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "IdeaPhone S850 (Dark"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/795/7957613.jpg",
+    "company": "BlackBerry",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,2\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280x768",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S4 Plus MSM8960 + GPU Adreno 225"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "BlackBerry OS10"
+    }],
+    "name": "Z10"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/893/89369223.jpg",
+    "company": "OnePlus",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "64 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8974AC) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (CyanogenMod 11S)"
+    }],
+    "name": "One 64GB (Silk"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/269/26958823.jpg",
+    "company": "Nokia",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,75 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S4 Play (MSM8225) + GPU Adreno 203"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Nokia X 1.0 (\u043d\u0430 \u0431\u0430\u0437\u0435 Android 4.1.2)"
+    }],
+    "name": "XL Dual SIM"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/893/89394473.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Mediatek MT6592 + GPU Mali-450MP4"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "A8/A808t"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/878/8788323.jpg",
+    "company": "HTC",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,3\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super LCD"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,75 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S3 MSM8260 + GPU Adreno 220"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 2.3 (Gingerbread) \u0441 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u043c HTC Sense 3.0"
+    }],
+    "name": "Sensation XE"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/110/11017593.jpg",
+    "company": "HUAWEI",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "HiSilicon K3V2 + GPU Vivante GC4000"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean) + \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043e\u0431\u043e\u043b\u043e\u0447\u043a\u0430 Emotion UI"
+    }],
+    "name": "Ascend P6-U06"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/523/52359243.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Blue",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,8\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super AMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 (MSM8226) + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3(Jelly Bean)"
+    }],
+    "name": "I9300i Galaxy S3 Duos"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/619/61903583.jpg",
+    "company": "ASUS",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gold",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "6\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8/16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Intel Atom Z2580 + GPU PowerVR SGX 544MP2"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "ZenFone 6 (Champagne"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/194/19440053.jpg",
+    "company": "Fly",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6589W + GPU PowerVR SGX 544"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2.2 (Jelly Bean)"
+    }],
+    "name": "IQ452 EGO Vision 1"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/647/64734773.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6582 + GPU Mali-400MP2"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "IdeaPhone S850"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/867/86721743.jpg",
+    "company": "Meizu",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,36\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS (New Mode2)"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920\u04451152",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Mediatek MT6595 + GPU PowerVR G6200MP4"
+    }, {
+        "name": "number of cores",
+        "value": "4 + 4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 (Sony Exmor IMX220) \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.4 (KitKat) + Flyme 4.0"
+    }],
+    "name": "MX4 32GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/870/8703333.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6575 + GPU PowerVR SGX 531"
+    }, {
+        "name": "number of cores",
+        "value": "1"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean) + \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 LG"
+    }],
+    "name": "E455 Optimus L5 II Dual"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/113/11330623.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Silver",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1136x640",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A7 + GPU PowerVR G6430"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "iOS"
+    }],
+    "name": "iPhone 5S 16GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/382/38236113.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MTK6592 + GPU Mali-450 MP4"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2.2"
+    }],
+    "name": "IdeaPhone A850+"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/855/85552653.jpg",
+    "company": "Apple",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Gray",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1334x750",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "128 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Apple A8 + GPU PowerVR GX6650"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Apple iOS 8"
+    }],
+    "name": "iPhone 6 128GB (Space"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/381/3811913.jpg",
+    "company": "BlackBerry",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "9900",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "2,8\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "640x480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,75 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S2 MSM8655 + GPU Adreno 205"
+    }, {
+        "name": "number of cores",
+        "value": "1"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "BlackBerry OS 7"
+    }],
+    "name": "Bold"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/113/11372653.jpg",
+    "company": "Xiaomi",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16/64 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 MSM8974 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean) + MIUI 5.0"
+    }],
+    "name": "MI-3"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/619/61903813.jpg",
+    "company": "ASUS",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "6\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8/16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Intel Atom Z2580 + GPU PowerVR SGX 544MP2"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "ZenFone 6 (Pearl"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/248/24800233.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,2\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 (MSM8974AB) + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat)"
+    }],
+    "name": "Xperia Z2"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/215/21573233.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Silver",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 MSM8974 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2.2 (Jelly Bean), \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u043e Android 4.4 (KitKat)"
+    }],
+    "name": "Vibe Z K910"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/567/56785473.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MTK6592 + GPU Mali-450 MP4"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2.2"
+    }],
+    "name": "IdeaPhone A850+"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/112/11292463.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,7\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "FHD sAMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "3 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Samsung Exynos Octa 5420 + GPU Mali-T628 MP6"
+    }, {
+        "name": "number of cores",
+        "value": "8"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.3 (Jelly Bean)"
+    }],
+    "name": "N9000 Galaxy Note 3"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/307/30765933.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,1\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super AMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Exynos 5 Octa 5422 + GPU Mali-T628 MP6"
+    }, {
+        "name": "number of cores",
+        "value": "8 (4+4)"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "16 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.2 (KitKat) + TouchWiz UI"
+    }],
+    "name": "G900H Galaxy S5 (Charcoal"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/870/8703363.jpg",
+    "company": "LG",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6575 + GPU PowerVR SGX 531"
+    }, {
+        "name": "number of cores",
+        "value": "1"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean) + \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 LG"
+    }],
+    "name": "E455 Optimus L5 II Dual"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/433/43397653.jpg",
+    "company": "Lenovo",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Black",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Mini-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TN"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "800\u0445480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6572 + GPU Mali-400MP"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "2 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2 (Jelly Bean)"
+    }],
+    "name": "IdeaPhone A316"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/105/10501253.jpg",
+    "company": "BlackBerry",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "3,1\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "720x720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S4 Plus MSM8960 + GPU Adreno 225"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "BlackBerry OS10"
+    }],
+    "name": "Q5"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/849/8496523.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Purple",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S4 Pro APQ8064 + GPU Adreno 320"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "13,1 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean) \u0441 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445..."
+    }],
+    "name": "Xperia Z"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/105/10564173.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Grey",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 600 APQ8064T + GPU Adreno 320"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "4.2 (Jelly Bean) + \u0444\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 TouchWiz"
+    }],
+    "name": "I9295 Galaxy S4 Active (Urban"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/107/10786843.jpg",
+    "company": "Samsung",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,3\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "Super AMOLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "960\u0445540",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "8/16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 400 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "8 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "4.2 (Jelly Bean) + \u0444\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 TouchWiz"
+    }],
+    "name": "I9192 Galaxy S4 Mini Duos"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/374/37441803.jpg",
+    "company": "HTC",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Navy",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "854x480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "MediaTek MT6582M + GPU Mali-400MP2"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.2"
+    }],
+    "name": "Desire 310 Dual Sim D310W"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/806/80611653.jpg",
+    "company": "Nokia",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Green",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "854x480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "0,5 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 200 + GPU Adreno 302"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Windows Phone 8.1 + Lumia Cyan"
+    }],
+    "name": "Lumia 530 Dual SIM"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/865/86577403.jpg",
+    "company": "Meizu",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "White",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5,36\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS (New Mode2)"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920\u04451152",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Mediatek MT6595 + GPU PowerVR G6200MP4"
+    }, {
+        "name": "number of cores",
+        "value": "4 + 4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 (Sony Exmor IMX220) \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4.4 (KitKat) + Flyme 4.0"
+    }],
+    "name": "MX4 16GB"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/951/95194613.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Green",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4,6\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "IPS TRILUMINOS"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1280\u0445720",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "16 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 801 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20,7 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.4 (KitKat)"
+    }],
+    "name": "Xperia Z3 Compact"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/123/12324713.jpg",
+    "company": "Sony",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Purple",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Micro-SIM"
+    }, {
+        "name": "cards number",
+        "value": "2 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "4\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "TFT"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "854x480",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "4 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "1 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon S4 Plus MSM8227 + GPU Adreno 305"
+    }, {
+        "name": "number of cores",
+        "value": "2"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "5 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Android 4.1 (Jelly Bean)"
+    }],
+    "name": "Xperia M dual"
+}, {
+    "category": "Smartphone",
+    "imageUrl": "http://hotline.ua/img/tx/361/36115223.jpg",
+    "company": "Nokia",
+    "specs": [{
+        "isMain": true,
+        "name": "color",
+        "value": "Orange",
+        "orderIndex": 0
+    }, {
+        "name": "card type",
+        "value": "Nano-SIM"
+    }, {
+        "name": "cards number",
+        "value": "1 SIM"
+    }, {
+        "isMain": true,
+        "name": "screen size",
+        "value": "5\"",
+        "orderIndex": 4
+    }, {
+        "name": "screen type",
+        "value": "ClearBlack, OLED"
+    }, {
+        "isMain": true,
+        "name": "resolution",
+        "value": "1920x1080",
+        "orderIndex": 3
+    }, {
+        "isMain": true,
+        "name": "storage",
+        "value": "32 \u0413\u0411",
+        "orderIndex": 2
+    }, {
+        "isMain": true,
+        "name": "RAM",
+        "value": "2 \u0413\u0411",
+        "orderIndex": 1
+    }, {
+        "name": "processor",
+        "value": "Qualcomm Snapdragon 800 MSM8974 + GPU Adreno 330"
+    }, {
+        "name": "number of cores",
+        "value": "4"
+    }, {
+        "isMain": true,
+        "name": "camera",
+        "value": "20 \u041c\u041f",
+        "orderIndex": 5
+    }, {
+        "name": "OS",
+        "value": "Microsoft Windows Phone 8.1"
+    }],
+    "name": "Lumia 930"
+}]
