@@ -1,0 +1,1343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eve",
+				"eventsOneTwo"
+			],
+			[
+				"prici",
+				"pricings_list	statement"
+			],
+			[
+				"ba",
+				"backups_path"
+			],
+			[
+				"dja",
+				"django_settings_module	statement"
+			],
+			[
+				"she",
+				"shell_env	import"
+			],
+			[
+				"compa",
+				"compareSelected"
+			],
+			[
+				"co",
+				"compareLimitReached"
+			],
+			[
+				"ca",
+				"cardsToCompare"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"com",
+				"compareLimitReached"
+			],
+			[
+				"agre",
+				"agreement_url"
+			],
+			[
+				"bottom",
+				"bottomPhotosCurPage"
+			],
+			[
+				"sw",
+				"switcher"
+			],
+			[
+				"bo",
+				"bottomPhotosCurPage"
+			],
+			[
+				"cu",
+				"currentClubPhotoUrl"
+			],
+			[
+				"pro",
+				"profileUrl"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"in",
+				"info	statement"
+			],
+			[
+				"loc",
+				"location	statement"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fou",
+				"foursquare_rating"
+			],
+			[
+				"fo",
+				"foursquare_rating	statement"
+			],
+			[
+				"map",
+				"mapWide"
+			],
+			[
+				"get",
+				"get_foursquare_rating"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"Se",
+				"SerializerMethodField"
+			],
+			[
+				"special",
+				"special_offer_is_active"
+			],
+			[
+				"specia",
+				"special_offer_is_active"
+			],
+			[
+				"su",
+				"submitGeoAddress"
+			],
+			[
+				"cou",
+				"country_city"
+			],
+			[
+				"fi",
+				"filterParams"
+			],
+			[
+				"clu",
+				"clubGeoObject"
+			],
+			[
+				"getC",
+				"getClubsOnMapList"
+			],
+			[
+				"name",
+				"name_to_save	statement"
+			],
+			[
+				"nam",
+				"name_to_save	statement"
+			],
+			[
+				"comple",
+				"Completed"
+			],
+			[
+				"date",
+				"datetime_completed	statement"
+			],
+			[
+				"Su",
+				"SubscriptionSerializer	class"
+			],
+			[
+				"new",
+				"newComment"
+			],
+			[
+				"detail",
+				"detail_views"
+			],
+			[
+				"or",
+				"order_views	statement"
+			],
+			[
+				"deta",
+				"detail_views	statement"
+			],
+			[
+				"li",
+				"list_views	statement"
+			],
+			[
+				"vie",
+				"view_type	param"
+			],
+			[
+				"V",
+				"VIEW_CHOICES	statement"
+			],
+			[
+				"loca",
+				"localStorageService"
+			],
+			[
+				"cur",
+				"curPaginPage"
+			],
+			[
+				"mdt",
+				"mdatetime	DateTimeField (mdatetime)"
+			],
+			[
+				"cardS",
+				"cardsService"
+			],
+			[
+				"gr",
+				"groupedByCardId"
+			],
+			[
+				"pri",
+				"pricingId"
+			],
+			[
+				"card",
+				"cardsService"
+			],
+			[
+				"nu",
+				"numCardsInComprasion"
+			],
+			[
+				"lo",
+				"localStorageService"
+			],
+			[
+				"ne",
+				"newCardToCompare"
+			],
+			[
+				"mode",
+				"model_instance	param"
+			],
+			[
+				"is",
+				"isinstance	function"
+			],
+			[
+				"mo",
+				"model_instance	param"
+			],
+			[
+				"def",
+				"default_description	function"
+			],
+			[
+				"defa",
+				"default_title"
+			],
+			[
+				"angular",
+				"angulargmContainer"
+			],
+			[
+				"me",
+				"memail	EmailField (memail)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/app/account/feed/feed.html",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/account/feed/feed.controller.js",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/account/account.js",
+			"settings":
+			{
+				"buffer_size": 582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/main/main.html",
+			"settings":
+			{
+				"buffer_size": 1374,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/timofey/Projects/gadgetin"
+	],
+	"file_history":
+	[
+		"/Users/timofey/Projects/gadgetin/client/assets/data/users.json",
+		"/Users/timofey/Projects/gadgetin/client/assets/data/products.json",
+		"/Users/timofey/Projects/gadgetin/client/assets/data/feed.json",
+		"/Users/timofey/Projects/gadgetin/client/app/main/main.css",
+		"/Users/timofey/Projects/gadgetin/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/timofey/Projects/gadgetin/node_modules/ejs/Makefile",
+		"/Users/timofey/Projects/gadgetin/client/app/account/feed/feed.css",
+		"/Users/timofey/Projects/gadgetin/client/app/account/feed/feed.controller.js",
+		"/Users/timofey/Projects/gadgetin/bower.json",
+		"/Users/timofey/Projects/gadgetin/server/config/environment/development.js",
+		"/Users/timofey/Projects/gadgetin/server/config/environment/test.js",
+		"/Users/timofey/Projects/gadgetin/client/app/account/profile/profile.html",
+		"/Users/timofey/Projects/gadgetin/client/app/account/feed/feed.html",
+		"/Users/timofey/Projects/gadgetin/client/app/app.css",
+		"/Users/timofey/Projects/gadgetin/client/index.html",
+		"/Users/timofey/Downloads/v1/css/main.css",
+		"/Users/timofey/Projects/gadgetin/client/app/account/account.js",
+		"/Users/timofey/Projects/gadgetin/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/Users/timofey/Projects/gadgetin/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/array/forEach.js",
+		"/Users/timofey/Projects/gadgetin/Gruntfile.js",
+		"/Users/timofey/Projects/gadgetin/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json",
+		"/Users/timofey/Projects/gadgetin/client/app/account/feed/feed.js",
+		"/Users/timofey/Projects/gadgetin/client/app/account/profile/profile.js",
+		"/Users/timofey/Projects/gadgetin/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/buffer-overrun.js",
+		"/Users/timofey/Projects/gadgetin/.gitignore",
+		"/Users/timofey/Projects/gadgetin/server/api/thing/thing.spec.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/cardCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/services/cardsService.js",
+		"/Users/timofey/Projects/abone.me/fabfile.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/_filters_sidebar.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/urls.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/views.py",
+		"/Users/timofey/Projects/abone.me/conf/production/nginx.conf",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/_footer.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/clubs/club_detail.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/clubCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/services/api.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/footerCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/landingClubCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/headerCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/css/landing-club.css",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/landing_club.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/css/club-detail.css",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/cards/card_list.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/css/landing-main.css",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/flatpages/landing.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/landing_client.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/css/landing.css",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/_header_search.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/_header.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/settings/_apps.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/api_views.py",
+		"/Users/timofey/Projects/abone.me/public/static/js/angular/app-cards/controllers/footerCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/views.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/orders/order_page.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/settings/production.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/ordersCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/orders/old__order_page.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/css/layout.css",
+		"/Users/timofey/Projects/abone.me/src/abone_me/settings/local.py",
+		"/Users/timofey/Projects/abone.me/public/static/font/fontello.css",
+		"/Users/timofey/Projects/abone.me/public/static/tiny_mce/plugins/visualblocks/editor_plugin.js",
+		"/Users/timofey/Projects/abone.me/requirements/local.txt",
+		"/Users/timofey/Projects/abone.me/requirements/base.txt",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/app.js",
+		"/Users/timofey/Projects/abone.me/conf/development/ramona.conf",
+		"/Users/timofey/Projects/abone.me/conf/development/nginx.conf",
+		"/Users/timofey/Projects/abone.me/requirements/requirements.txt",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/base.html",
+		"/Users/timofey/Projects/abone.me/conf/production/ramona.conf",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/utils.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/clubs/models.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/serializers.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/cards/admin.py",
+		"/Users/timofey/Projects/abone.me/src/conf/locale/ru/LC_MESSAGES/django.mo",
+		"/Users/timofey/Projects/abone.me/_fabfile.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/settings/_django.py",
+		"/Users/timofey/Projects/abone.me/requirements/production.txt",
+		"/Users/timofey/Projects/abone.me/src/abone_me/settings/development.py",
+		"/Users/timofey/Projects/abone.me/src/conf/locale/ru/LC_MESSAGES/django.po",
+		"/Users/timofey/Projects/abone.me/requirements/development.txt",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/css/base.css",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/compareCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/cards/card_detail.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/func_tests/pages.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/func_tests/basic.feature",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/directives/foursquareClubInfo.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/cardsCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/popups/terms.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/banners/tests.py",
+		"/Users/timofey/Projects/abone.me/salt/pillar/top.sls",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/services/ordersService.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/ng-quick-date.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/css/ng-quick-date.css",
+		"/Users/timofey/Projects/abone.me/src/__init__.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/orders/order_completed_email.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/clubs/admin.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/cards/models.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/cards/urls.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/banners/admin.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/filters.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/home.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/models.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/tasks.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/urls.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/__init__.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/_celery.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/clubs/tasks.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/subscriptions/models.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/dirPagination.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/utils.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/func_tests/orders.feature",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/__init__.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/admin.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/statistics/weekly_report.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/banners/models.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/clubs/migrations/0004_auto__add_field_club_slug.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/popups/services.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/cards/migrations/0003_auto__add_field_card_slug.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/modernizr.custom.17475.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/migrations/0002_auto__del_field_order_purchased_price__add_field_order_amount.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/templates/cards/card_compare.html",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/controllers/searchCtrl.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/xtForm.js",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/cards/migrations/0006_auto__chg_field_cardtype_image__chg_field_card_slug__del_unique_card_s.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/clubs/migrations/0007_auto__add_field_club_position_on_main.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/apps/orders/migrations/0003_auto__chg_field_order_user_patronymic__chg_field_order_user_passport__.py",
+		"/Users/timofey/Projects/abone.me/src/abone_me/static/js/angular/app-cards/popups/cards.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"*.py",
+			"",
+			"*.css",
+			"",
+			"*.html",
+			"*.css",
+			".css",
+			"",
+			"*.html",
+			"",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img/",
+			"imgUrl",
+			"src=\"img",
+			"landing-club",
+			"autofixture",
+			"http",
+			"DEFAULT_FROM_EMAIL",
+			"msg.send",
+			"utf-8",
+			"unidecode",
+			"pytils",
+			"console.log",
+			"compare-base",
+			"compare",
+			"card.compareSelected",
+			"4",
+			"image_path",
+			".delivery-label-active",
+			".comment",
+			".terms input",
+			"checked",
+			"console.log",
+			"currentClubPhotoUrl",
+			"background",
+			"ordering",
+			"getClubFoursquareInfo",
+			"https://github.com/adamalbrecht/ngQuickDate/tree/master/dist\nhttps://github.com/adamalbrecht/ngQuickDate/tree/master/dist\ngetClubFoursquareInfo",
+			"service",
+			"<base href",
+			"$location",
+			"cards",
+			"discount-list__img",
+			"thumbnail",
+			"social-net",
+			"club_",
+			"club_names",
+			"send(",
+			"starlda",
+			"def get_detail_url(self, obj):\n        return reverse('club_detail', kwargs={'slug': obj.slug})",
+			"console.log",
+			"resize",
+			"submitSearch",
+			"typeahead",
+			".ng-hide",
+			"search",
+			"currentOrderBy",
+			"import settings",
+			"map-wrap",
+			"os",
+			"[type='search']",
+			"[type=\"search\"]",
+			"typeahead",
+			"id=\"typeahead",
+			"PUBLIC_DIR",
+			"head-list-in",
+			"dropdown-link",
+			".dropdown-link",
+			"thumbnail",
+			"hot.png",
+			"prop-hot",
+			"price-discount",
+			"liqpay",
+			"Payment",
+			"landing-subscription",
+			"backimgland.jpg",
+			"images",
+			".png",
+			"\"2img/",
+			"console.log",
+			"getClubFoursquareComments",
+			"today",
+			"DEFAULT",
+			"card_id",
+			"console.log",
+			"localStorageService",
+			"currentPaginationPage",
+			"card",
+			"console.log",
+			"Site",
+			"cardService",
+			"card.compareSelected",
+			"activePricingId",
+			"buyClick",
+			"<select",
+			"splice",
+			"numCardsInComprasion",
+			"check-yes",
+			"check-yes - копия.png",
+			"<h1",
+			"favicon",
+			"int(",
+			"dbuser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets/images",
+			"imageUrl",
+			"src=\"assets/images",
+			"landing-club",
+			"images/landing-subscription",
+			".png' %}",
+			"\"{% static 'images/",
+			"getClubFoursquareInfo",
+			"$scope.card"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/app/account/feed/feed.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/app/account/feed/feed.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/app/account/account.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/app/main/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gadgetin.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"client/app/main/main.html"
+			],
+			[
+				"feedctr",
+				"client/app/account/feed/feed.controller.js"
+			],
+			[
+				"i",
+				"client/index.html"
+			],
+			[
+				"feed.ct",
+				"client/app/account/feed/feed.controller.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"view",
+				"src/abone_me/apps/views.py"
+			],
+			[
+				"seri",
+				"src/abone_me/apps/serializers.py"
+			],
+			[
+				"cardsse",
+				"src/abone_me/static/js/angular/app-cards/services/cardsService.js"
+			],
+			[
+				"cards",
+				"src/abone_me/static/js/angular/app-cards/controllers/cardsCtrl.js"
+			],
+			[
+				"file",
+				"src/abone_me/templates/_filters_sidebar.html"
+			],
+			[
+				"clu",
+				"src/abone_me/static/js/angular/app-cards/controllers/clubCtrl.js"
+			],
+			[
+				"card",
+				"src/abone_me/static/js/angular/app-cards/controllers/cardCtrl.js"
+			],
+			[
+				"club_",
+				"src/abone_me/templates/clubs/club_detail.html"
+			],
+			[
+				"fil",
+				"src/abone_me/templates/_filters_sidebar.html"
+			],
+			[
+				"landing",
+				"src/abone_me/static/js/angular/app-cards/controllers/landingClubCtrl.js"
+			],
+			[
+				"hea",
+				"src/abone_me/static/js/angular/app-cards/controllers/headerCtrl.js"
+			],
+			[
+				"api",
+				"src/abone_me/static/js/angular/app-cards/services/api.js"
+			],
+			[
+				"footerc",
+				"public/static/js/angular/app-cards/controllers/footerCtrl.js"
+			],
+			[
+				"ngi",
+				"conf/production/nginx.conf"
+			],
+			[
+				"foot",
+				"src/abone_me/templates/_footer.html"
+			],
+			[
+				"orde",
+				"src/abone_me/templates/orders/order_page.html"
+			],
+			[
+				"la",
+				"src/abone_me/templates/landing_club.html"
+			],
+			[
+				"pro",
+				"src/abone_me/settings/production.py"
+			],
+			[
+				"foo",
+				"src/abone_me/templates/_footer.html"
+			],
+			[
+				"url",
+				"src/abone_me/urls.py"
+			],
+			[
+				"vi",
+				"src/abone_me/apps/views.py"
+			],
+			[
+				"app",
+				"src/abone_me/settings/_apps.py"
+			],
+			[
+				"base",
+				"requirements/base.txt"
+			],
+			[
+				"re",
+				"requirements/requirements.txt"
+			],
+			[
+				"admin",
+				"src/abone_me/apps/cards/admin.py"
+			],
+			[
+				"clmdo",
+				"src/abone_me/apps/clubs/models.py"
+			],
+			[
+				"n",
+				"conf/production/nginx.conf"
+			],
+			[
+				"djapy",
+				"src/abone_me/settings/_django.py"
+			],
+			[
+				"apps",
+				"src/abone_me/settings/_apps.py"
+			],
+			[
+				"bas",
+				"requirements/base.txt"
+			],
+			[
+				"v",
+				"src/abone_me/apps/views.py"
+			],
+			[
+				"_fa",
+				"_fabfile.py"
+			],
+			[
+				"de",
+				"src/abone_me/settings/development.py"
+			],
+			[
+				"fabfil",
+				"fabfile.py"
+			],
+			[
+				"requ",
+				"requirements/requirements.txt"
+			],
+			[
+				"ra",
+				"conf/production/ramona.conf"
+			],
+			[
+				"com",
+				"src/abone_me/static/js/angular/app-cards/controllers/compareCtrl.js"
+			],
+			[
+				"ramo",
+				"conf/development/ramona.conf"
+			],
+			[
+				"dja",
+				"src/abone_me/settings/_django.py"
+			],
+			[
+				"fab",
+				"fabfile.py"
+			],
+			[
+				"cardc",
+				"src/abone_me/static/js/angular/app-cards/controllers/cardCtrl.js"
+			],
+			[
+				"card_de",
+				"src/abone_me/templates/cards/card_detail.html"
+			],
+			[
+				"base.css",
+				"src/abone_me/static/css/base.css"
+			],
+			[
+				"card_li",
+				"src/abone_me/templates/cards/card_list.html"
+			],
+			[
+				"old",
+				"src/abone_me/templates/orders/old__order_page.html"
+			],
+			[
+				"ter",
+				"src/abone_me/static/js/angular/app-cards/popups/terms.html"
+			],
+			[
+				"ord",
+				"src/abone_me/static/js/angular/app-cards/controllers/ordersCtrl.js"
+			],
+			[
+				"order",
+				"src/abone_me/templates/orders/order_page.html"
+			],
+			[
+				"clumod",
+				"src/abone_me/apps/clubs/models.py"
+			],
+			[
+				"base.cs",
+				"src/abone_me/static/css/base.css"
+			],
+			[
+				"quck",
+				"src/abone_me/static/js/angular/ng-quick-date.js"
+			],
+			[
+				"app.js",
+				"src/abone_me/static/js/angular/app-cards/app.js"
+			],
+			[
+				"ol",
+				"src/abone_me/templates/orders/old__order_page.html"
+			],
+			[
+				"orderview",
+				"src/abone_me/apps/orders/views.py"
+			],
+			[
+				"orct",
+				"src/abone_me/static/js/angular/app-cards/controllers/ordersCtrl.js"
+			],
+			[
+				"filt",
+				"src/abone_me/templates/_filters_sidebar.html"
+			],
+			[
+				"clubc",
+				"src/abone_me/static/js/angular/app-cards/controllers/clubCtrl.js"
+			],
+			[
+				"se",
+				"src/abone_me/apps/serializers.py"
+			],
+			[
+				"cldeht",
+				"src/abone_me/templates/clubs/club_detail.html"
+			],
+			[
+				"cardadmi",
+				"src/abone_me/apps/cards/admin.py"
+			],
+			[
+				"carmode",
+				"src/abone_me/apps/cards/models.py"
+			],
+			[
+				"clubsad",
+				"src/abone_me/apps/clubs/admin.py"
+			],
+			[
+				"bannermo",
+				"src/abone_me/apps/banners/models.py"
+			],
+			[
+				"filter",
+				"src/abone_me/templates/_filters_sidebar.html"
+			],
+			[
+				"cards_li",
+				"src/abone_me/templates/cards/card_list.html"
+			],
+			[
+				"ordpa",
+				"src/abone_me/templates/orders/order_page.html"
+			],
+			[
+				"cluad",
+				"src/abone_me/apps/clubs/admin.py"
+			],
+			[
+				"clumo",
+				"src/abone_me/apps/clubs/models.py"
+			],
+			[
+				"basec",
+				"src/abone_me/static/css/base.css"
+			],
+			[
+				"cluc",
+				"src/abone_me/static/js/angular/app-cards/controllers/clubCtrl.js"
+			],
+			[
+				"ords",
+				"src/abone_me/static/js/angular/app-cards/services/ordersService.js"
+			],
+			[
+				"or",
+				"src/abone_me/static/js/angular/app-cards/controllers/ordersCtrl.js"
+			],
+			[
+				"lo",
+				"src/abone_me/settings/local.py"
+			],
+			[
+				"req",
+				"requirements/requirements.txt"
+			],
+			[
+				"ordersul",
+				"src/abone_me/apps/orders/urls.py"
+			],
+			[
+				"deve",
+				"src/abone_me/settings/development.py"
+			],
+			[
+				"ordurl",
+				"src/abone_me/apps/orders/urls.py"
+			],
+			[
+				"ordersmodels",
+				"src/abone_me/apps/orders/models.py"
+			],
+			[
+				"orders",
+				"src/abone_me/static/js/angular/app-cards/controllers/ordersCtrl.js"
+			],
+			[
+				"we",
+				"src/abone_me/templates/statistics/weekly_report.html"
+			],
+			[
+				"servi",
+				"src/abone_me/static/js/angular/app-cards/services/cardsService.js"
+			],
+			[
+				"cardsc",
+				"src/abone_me/static/js/angular/app-cards/controllers/cardsCtrl.js"
+			],
+			[
+				"dire",
+				"src/abone_me/static/js/angular/app-cards/directives/foursquareClubInfo.js"
+			],
+			[
+				"ca",
+				"src/abone_me/static/js/angular/app-cards/services/cardsService.js"
+			],
+			[
+				"ordermode",
+				"src/abone_me/apps/orders/models.py"
+			],
+			[
+				"cardmode",
+				"src/abone_me/apps/cards/models.py"
+			],
+			[
+				"cardsa",
+				"src/abone_me/apps/cards/admin.py"
+			],
+			[
+				"api.j",
+				"src/abone_me/static/js/angular/app-cards/services/api.js"
+			],
+			[
+				"clubmo",
+				"src/abone_me/apps/clubs/models.py"
+			],
+			[
+				"cardse",
+				"src/abone_me/static/js/angular/app-cards/services/cardsService.js"
+			],
+			[
+				"cars",
+				"src/abone_me/static/js/angular/app-cards/services/cardsService.js"
+			],
+			[
+				"api.js",
+				"src/abone_me/static/js/angular/app-cards/services/api.js"
+			],
+			[
+				"hesea",
+				"src/abone_me/templates/_header_search.html"
+			],
+			[
+				"sear",
+				"src/abone_me/static/js/angular/app-cards/controllers/searchCtrl.js"
+			],
+			[
+				"he",
+				"src/abone_me/templates/_header.html"
+			],
+			[
+				"sea",
+				"src/abone_me/static/js/angular/app-cards/controllers/searchCtrl.js"
+			],
+			[
+				"ormo",
+				"src/abone_me/apps/orders/models.py"
+			],
+			[
+				"cardsad",
+				"src/abone_me/apps/cards/admin.py"
+			],
+			[
+				"apiv",
+				"src/abone_me/apps/api_views.py"
+			],
+			[
+				"loca",
+				"src/abone_me/settings/local.py"
+			],
+			[
+				"",
+				"src/abone_me/templates/_filters_sidebar.html"
+			],
+			[
+				"cardsmo",
+				"src/abone_me/apps/cards/models.py"
+			],
+			[
+				"ordmo",
+				"src/abone_me/apps/orders/models.py"
+			],
+			[
+				"ap",
+				"src/abone_me/settings/_apps.py"
+			],
+			[
+				"lay",
+				"src/abone_me/static/css/layout.css"
+			],
+			[
+				"vaa",
+				"Vagrantfile"
+			],
+			[
+				"orderct",
+				"src/abone_me/static/js/angular/app-cards/controllers/ordersCtrl.js"
+			],
+			[
+				"djan",
+				"src/abone_me/settings/_django.py"
+			],
+			[
+				"card_list.html",
+				"src/abone_me/templates/cards/card_list.html"
+			],
+			[
+				"orurl",
+				"src/abone_me/apps/orders/urls.py"
+			],
+			[
+				"statitvi",
+				"src/abone_me/apps/statistics/views.py"
+			],
+			[
+				"orderve",
+				"src/abone_me/apps/orders/views.py"
+			],
+			[
+				"subscriptionsmo",
+				"src/abone_me/apps/subscriptions/models.py"
+			],
+			[
+				"ordersview",
+				"src/abone_me/apps/orders/views.py"
+			],
+			[
+				"ordermo",
+				"src/abone_me/apps/orders/models.py"
+			],
+			[
+				"club",
+				"src/abone_me/templates/clubs/club_detail.html"
+			],
+			[
+				"ordead",
+				"src/abone_me/apps/orders/admin.py"
+			],
+			[
+				"subsad",
+				"src/abone_me/apps/subscriptions/admin.py"
+			],
+			[
+				"ordersmo",
+				"src/abone_me/apps/orders/models.py"
+			],
+			[
+				"ordersmode",
+				"src/abone_me/apps/orders/models.py"
+			],
+			[
+				"api_v",
+				"src/abone_me/apps/api_views.py"
+			],
+			[
+				"clubsmo",
+				"src/abone_me/apps/clubs/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/abone.me/aboneme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
