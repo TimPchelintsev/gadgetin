@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('gadgetinAppApp')
+angular.module('gadgetinApp')
   .controller('MainCtrl', function ($scope, $http, socket) {
     $scope.awesomeThings = [];
 

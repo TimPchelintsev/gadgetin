@@ -11,7 +11,13 @@ var Product = require('./product.model');
 
 // Get list of products
 exports.index = function(req, res) {
-  Product.find(function (err, things) {
+
+  var filter =  {};
+  for ( var param in req.query ) {
+      filter[param] = req.query[param];   // probably want to check in the loop
+  }
+
+  Product.find(filter, function (err, things) {
     if(err) { return handleError(res, err); }
     return res.json(200, things);
   });

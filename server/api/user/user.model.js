@@ -5,9 +5,30 @@ var Schema = mongoose.Schema;
 var crypto = require('crypto');
 var authTypes = ['github', 'twitter', 'facebook', 'google'];
 
+var CommentSchema = new Schema({
+  author: Schema.Types.ObjectId,
+  created: { type: Date, default: Date.now },
+  text: String
+});
+
+var UserProductSchema = new Schema({
+  relatedProduct: Schema.Types.ObjectId,
+  category: String,
+  name: String,
+  company: String,
+  imageUrl: String,
+  specs: [Schema.Types.Mixed],
+  comments: [CommentSchema],
+  feedback: {text: String, rating: Number}
+});
+
 var UserSchema = new Schema({
   name: String,
   email: { type: String, lowercase: true },
+  products: [UserProductSchema],
+  wishes: [UserProductSchema],
+  following: [Schema.Types.ObjectId],
+  followers: [Schema.Types.ObjectId],
   role: {
     type: String,
     default: 'user'

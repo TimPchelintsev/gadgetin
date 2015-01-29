@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('gadgetinAppApp')
+angular.module('gadgetinApp')
   .config(function ($stateProvider) {
     $stateProvider
       .state('main', {

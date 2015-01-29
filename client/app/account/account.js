@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('gadgetinAppApp')
+angular.module('gadgetinApp')
   .config(function ($stateProvider) {
     $stateProvider
       .state('login', {
@@ -12,6 +12,11 @@ angular.module('gadgetinAppApp')
         url: '/signup',
         templateUrl: 'app/account/signup/signup.html',
         controller: 'SignupCtrl'
+      })
+      .state('profile', {
+        url: '/profile',
+        templateUrl: 'app/account/profile/profile.html',
+        controller: 'ProfileCtrl'
       })
       .state('settings', {
         url: '/settings',

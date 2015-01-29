@@ -93,6 +93,24 @@ exports.me = function(req, res, next) {
   });
 };
 
+
+// Creates a new user product.
+exports.createUserProduct = function(req, res, next) {
+  var userId = req.params.id;
+
+  User.findById(userId, function (err, user) {
+    if (err) return next(err);
+    if (!user) return res.send(401);
+    var newUserProduct = user.products.create(req.body);
+    user.products.push(req.body);
+    user.save(function(err) {
+      if (err) return validationError(res, err);
+      res.json(201, newUserProduct);
+    })
+  });
+};
+
+
 /**
  * Authentication callback
  */

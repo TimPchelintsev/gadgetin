@@ -1,19 +1,21 @@
 'use strict';
 
-angular.module('gadgetinAppApp', [
+angular.module('gadgetinApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
   'btford.socket-io',
   'ui.router',
-  'ui.bootstrap'
+  'ui.bootstrap',
+  'restangular'
 ])
-  .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) {
+  .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider, RestangularProvider) {
     $urlRouterProvider
       .otherwise('/');
 
     $locationProvider.html5Mode(true);
     $httpProvider.interceptors.push('authInterceptor');
+    RestangularProvider.setBaseUrl('/api');
   })
 
   .factory('authInterceptor', function ($rootScope, $q, $cookieStore, $location) {
@@ -45,7 +47,7 @@ angular.module('gadgetinAppApp', [
   .run(function ($rootScope, $location, Auth) {
     // Redirect to login if route requires auth and you're not logged in
     $rootScope.$on('$stateChangeStart', function (event, next) {
-      Auth.isLoggedInAsync(function(loggedIn) {
+      Auth.isLoggedIn(function(loggedIn) {
         if (next.authenticate && !loggedIn) {
           $location.path('/login');
         }

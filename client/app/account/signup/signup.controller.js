@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('gadgetinAppApp')
+angular.module('gadgetinApp')
   .controller('SignupCtrl', function ($scope, Auth, $location, $window) {
     $scope.user = {};
     $scope.errors = {};

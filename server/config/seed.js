@@ -41,6 +41,13 @@ User.find({}).remove(function() {
     password: 'test'
   }, {
     provider: 'local',
+    name: 'Tim Pchelintsev',
+    email: 'tim@gmail.com',
+    products: [],
+    wishes: [],
+    password: 'tim'
+  }, {
+    provider: 'local',
     role: 'admin',
     name: 'Admin',
     email: 'admin@admin.com',
