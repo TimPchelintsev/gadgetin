@@ -1,0 +1,41 @@
+<div id="wrapper-header" ng-controller="HeaderCtrl">
+    <div class="header">
+        <header>
+            <a href="#"><img src="assets/images/gadgetin_logo.png"></a>
+            <div id="profile-settings">
+                <!-- <a ng-show="isLoggedIn()" href="/profile">Profile</a> -->
+                <a ng-show="isLoggedIn()" href="" ng-click="logout()">Logout</a>
+                <a ng-hide="isLoggedIn()" href="/login">Login</a>
+                <a ng-hide="isLoggedIn()" href="/signup">Signup</a>
+            </div>
+            <div class="heading-block" ng-if="isLoggedIn()">
+                <div class="avatar-wrapper">
+                    <div id="avatar">
+                        <a href="/profile"><img ng-src="{{profile.imageUrl}}" alt="{{profile.name}}"></a>
+                    </div>
+                    <ul id="name">
+                        <li>{{profile.name}}</li>
+                        <!-- <li>{{profile.status}}</li> -->
+                    </ul>
+                    <ul class="menu">
+                        <li><a href="/feed">Feed</a></li>
+                        <li><a href="/gadgets">Gadgets</a></li>
+                        <li><a href="/people">People</a></li>
+
+                    </ul>
+                    <button ng-click="changeView('gadgets')">New Gadget</button>
+                    <div class="counters">
+                        <ul>
+                            <li>{{profile.wishes.length}}</li>
+                            <li>wishes</li>
+                        </ul>
+                        <ul>
+                            <li>{{profile.products.length}}</li>
+                            <li>gadgets</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+</div>

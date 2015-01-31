@@ -7,7 +7,7 @@ var authTypes = ['github', 'twitter', 'facebook', 'google'];
 
 var CommentSchema = new Schema({
   author: Schema.Types.ObjectId,
-  created: { type: Date, default: Date.now },
+  created: {type: Date, default: Date.now},
   text: String
 });
 
@@ -25,6 +25,7 @@ var UserProductSchema = new Schema({
 var UserSchema = new Schema({
   name: String,
   email: { type: String, lowercase: true },
+  imageUrl: {type: String, default: 'assets/images/user_default.jpg'},
   products: [UserProductSchema],
   wishes: [UserProductSchema],
   following: [Schema.Types.ObjectId],

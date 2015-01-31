@@ -7,18 +7,22 @@ angular.module('gadgetinApp', [
   'btford.socket-io',
   'ui.router',
   'ui.bootstrap',
-  'restangular'
+  'restangular',
+  'ngDialog'
 ])
-  .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider, RestangularProvider) {
+  .config(function ($stateProvider, $urlRouterProvider, $locationProvider,
+                    $httpProvider, RestangularProvider) {
     $urlRouterProvider
       .otherwise('/');
 
     $locationProvider.html5Mode(true);
     $httpProvider.interceptors.push('authInterceptor');
     RestangularProvider.setBaseUrl('/api');
+    // RestangularProvider.addRequestInterceptor('authInterceptor');
   })
 
-  .factory('authInterceptor', function ($rootScope, $q, $cookieStore, $location) {
+  .factory('authInterceptor', function ($rootScope, $q,
+                                        $cookieStore, $location) {
     return {
       // Add authorization token to headers
       request: function (config) {

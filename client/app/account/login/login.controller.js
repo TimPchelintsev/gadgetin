@@ -15,7 +15,7 @@ angular.module('gadgetinApp')
         })
         .then( function() {
           // Logged in, redirect to home
-          $location.path('/');
+          $location.path('/profile');
         })
         .catch( function(err) {
           $scope.errors.other = err.message;

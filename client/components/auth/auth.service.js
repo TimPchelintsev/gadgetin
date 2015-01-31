@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('gadgetinApp')
-  .factory('Auth', function Auth($http, User, $cookieStore, $q) {
+  .factory('Auth', function Auth($http, User, $cookieStore, $q, api) {
     /**
      * Return a callback or noop function
      *
@@ -15,7 +15,7 @@ angular.module('gadgetinApp')
     currentUser = {};
 
     if ($cookieStore.get('token')) {
-      currentUser = User.get();
+      currentUser = api.getCurrentUser();
     }
 
     return {
@@ -34,7 +34,7 @@ angular.module('gadgetinApp')
         })
         .then(function(res) {
           $cookieStore.put('token', res.data.token);
-          currentUser = User.get();
+          currentUser = api.getCurrentUser();
           safeCb(callback)();
           return res.data;
         }, function(err) {
@@ -63,7 +63,7 @@ angular.module('gadgetinApp')
         return User.save(user,
           function(data) {
             $cookieStore.put('token', data.token);
-            currentUser = User.get();
+            currentUser = api.getCurrentUser();
             return safeCb(callback)(null, user);
           },
           function(err) {
@@ -158,7 +158,8 @@ angular.module('gadgetinApp')
        */
       isLoggedIn: function(callback) {
         if (arguments.length === 0) {
-          return currentUser.hasOwnProperty('role');
+          // return currentUser.hasOwnProperty('role');
+          return !_.isEmpty(currentUser);
         }
 
         return this.getCurrentUser(null)

@@ -12,10 +12,10 @@ router.get('/', controller.index);
 router.delete('/:id', auth.hasRole('admin'), controller.destroy);
 router.get('/me', auth.isAuthenticated(), controller.me);
 router.put('/:id/password', auth.isAuthenticated(), controller.changePassword);
-router.get('/:id', auth.isAuthenticated(), controller.show);
+router.get('/:id', controller.show);
 router.post('/', controller.create);
 // router.get('/:id/products', auth.isAuthenticated(), controller.showUserProducts);
-router.post('/:id/products', auth.isAuthenticated(), controller.createUserProduct);
+router.post('/me/products', auth.isAuthenticated(), controller.createUserProduct);
 // router.get('/:id/wishes', auth.isAuthenticated(), controller.showUserWishes);
 
 module.exports = router;

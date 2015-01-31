@@ -6,6 +6,7 @@ angular.module('gadgetinApp')
       .state('gadgets', {
         url: '/gadgets',
         templateUrl: 'app/gadgets/gadgets.html',
-        controller: 'GadgetsCtrl'
+        controller: 'GadgetsCtrl',
+        authenticate: true
       });
   });
