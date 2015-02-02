@@ -7,6 +7,7 @@
             <img ng-src="{{user.imageUrl}}"/>
             <div class="product-prop">
                 <h2>{{user.name}}</h2>
+                <pre>{{user | json}}</pre>
                 <!-- <div>
                     <span ng-repeat="spec in product.specs | filter: {isMain:true} | orderBy:'orderIndex'">
                         <span>{{spec.name}}</span>: <span>{{spec.value}}</span>

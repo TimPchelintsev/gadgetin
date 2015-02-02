@@ -1,9 +1,9 @@
 <div ng-include="'components/header/header.html'"></div>
 
 <div id="page-wrapper">
-    <input type="text" placeholder="Enter gadget name, brand or specs" ng-model="search.query">
-    <section class="product-char" ng-repeat="product in products | filter:search.query">
-        <div class="product-content">
+    <input type="text" placeholder="Enter gadget name, brand or specs" ng-model="search.query" ng-change="search.change()">
+    <section class="product-char" ng-repeat="product in products | filter:search.query | limitTo: showLimit">
+        <div class="product-content" id="product-{{$index + 1}}">
             <img ng-src="{{product.imageUrl}}"/>
             <div class="product-prop">
                 <h2>{{product.company}} {{product.name}}</h2>
@@ -24,10 +24,10 @@
 
     </section>
 
-    <footer>
-        <!-- <h3>More</h3>
-        <a href="#">
-            <img src="img/icon/three60.png" />
-        </a> -->
+    <footer ng-show="products.length > showLimit">
+        <h3>More</h3>
+        <a href ng-click="showMore()">
+            <img src="/assets/images/show_more.png"/>
+        </a>
     </footer>
 </div>

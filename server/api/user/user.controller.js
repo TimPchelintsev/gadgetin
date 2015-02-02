@@ -40,10 +40,10 @@ exports.create = function (req, res, next) {
 exports.show = function (req, res, next) {
   var userId = req.params.id;
 
-  User.findById(userId, function (err, user) {
+  User.findById(userId, '-salt -hashedPassword', function (err, user) {
     if (err) return next(err);
     if (!user) return res.send(401);
-    res.json(user.profile);
+    res.json(user);
   });
 };
 
@@ -89,7 +89,6 @@ exports.me = function(req, res, next) {
   }, '-salt -hashedPassword', function(err, user) { // don't ever give out the password or salt
     if (err) return next(err);
     if (!user) return res.json(401);
-    console.log(user);
     res.json(user);
   });
 };
@@ -97,7 +96,6 @@ exports.me = function(req, res, next) {
 
 // Creates a new user product.
 exports.createUserProduct = function(req, res, next) {
-  // var userId = req.params.id;
   var userId = req.user._id;
 
   User.findById(userId, function (err, user) {
@@ -111,6 +109,22 @@ exports.createUserProduct = function(req, res, next) {
     })
   });
 };
+
+exports.createUserProductComment = function(req, res, next) {
+  var userId = req.params.userId;
+  var productId = req.params.productid;
+
+  User.findById(userId, function (err, user) {
+    if (err) return next(err);
+    if (!user) return res.send(401);
+    var newUserProductComment = user.products.id(productId).comments.create(req.body);
+    user.products.id(productId).comments.push(req.body);
+    user.save(function(err) {
+      if (err) return validationError(res, err);
+      res.json(201, newUserProductComment);
+    })
+  });
+}
 
 
 /**

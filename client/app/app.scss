@@ -21,6 +21,7 @@ $fa-font-path: "/bower_components/font-awesome/fonts";
 @import 'account/profile/profile.scss';
 @import 'admin/admin.scss';
 @import 'feed/feed.scss';
+@import 'gadget/gadget.scss';
 @import 'gadgets/gadgets.scss';
 @import 'main/main.scss';
 @import 'people/people.scss';
@@ -223,7 +224,7 @@ body {
   font-weight: 300; }
 
 #wrapper-header {
-  background-color: #3E3E3E; }
+  background-color: #3E3E3E;}
   #wrapper-header .header {
     max-width: 1000px;
     margin-left: auto;
@@ -788,7 +789,7 @@ body {
   -ms-border-radius: 3px;
   border-radius: 3px;
   font-size: 24px;
-  font-size: 16px; }
+  font-size: 16px;}
 #page-wrapper section.product-char {
   margin-top: 40px;
   margin-bottom: 40px; }

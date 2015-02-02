@@ -8,12 +8,13 @@ angular.module('gadgetinApp', [
   'ui.router',
   'ui.bootstrap',
   'restangular',
-  'ngDialog'
+  'ngDialog',
+  'smoothScroll'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider,
                     $httpProvider, RestangularProvider) {
     $urlRouterProvider
-      .otherwise('/');
+      .otherwise('/profile');
 
     $locationProvider.html5Mode(true);
     $httpProvider.interceptors.push('authInterceptor');

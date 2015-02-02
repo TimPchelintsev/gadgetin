@@ -1,12 +1,26 @@
 'use strict';
 
 angular.module('gadgetinApp')
-  .controller('GadgetsCtrl', function ($scope, Auth, utils, api, ngDialog) {
+  .controller('GadgetsCtrl', function ($scope, Auth, utils, api, ngDialog, smoothScroll, $timeout) {
     $scope.changeView = utils.changeView;
     Auth.getCurrentUser(function(user) {
       $scope.profile = user;
     });
     $scope.search = {};
+    $scope.showLimit = 2;
+
+    $scope.search.change = function() {
+      $scope.showLimit = 2;
+    };
+
+    $scope.showMore = function() {
+      $scope.showLimit += 5;
+      $timeout(function() {
+        var element = document.getElementById('product-' + $scope.showLimit);
+        smoothScroll(element);
+      }, 10);
+    };
+
     api.getProducts().then(
       function(data) {
         $scope.products = data;

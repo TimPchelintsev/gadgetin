@@ -17,5 +17,6 @@ router.post('/', controller.create);
 // router.get('/:id/products', auth.isAuthenticated(), controller.showUserProducts);
 router.post('/me/products', auth.isAuthenticated(), controller.createUserProduct);
 // router.get('/:id/wishes', auth.isAuthenticated(), controller.showUserWishes);
+router.post('/:userId/products/:productId/comments', auth.isAuthenticated(), controller.createUserProductComment);
 
 module.exports = router;

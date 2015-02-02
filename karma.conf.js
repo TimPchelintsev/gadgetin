@@ -24,6 +24,7 @@ module.exports = function(config) {
       'client/bower_components/angular-ui-router/release/angular-ui-router.js',
       'client/bower_components/restangular/dist/restangular.js',
       'client/bower_components/ngDialog/js/ngDialog.js',
+      'client/bower_components/ngSmoothScroll/angular-scroll-smooth.js',
       'client/app/app.js',
       'client/app/app.coffee',
       'client/app/**/*.js',

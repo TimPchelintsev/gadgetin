@@ -9,6 +9,12 @@ angular.module('gadgetinApp')
       user.addProduct = function(product) {
         return Restangular.one('users', 'me').all('products').post(product);
       };
+      user.commentProduct = function(user, product, comment) {
+        return Restangular
+                .one('users', user._id)
+                .one('products', product._id)
+                .all('comments').post(comment);
+      };
       return user;
     });
 
