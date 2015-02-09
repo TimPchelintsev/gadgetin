@@ -1,9 +1,11 @@
 'use strict';
 
 var User = require('./user.model');
+var Comment = require('./comment').model;
 var passport = require('passport');
 var config = require('../../config/environment');
 var jwt = require('jsonwebtoken');
+var _ = require('lodash');
 
 var validationError = function(res, err) {
   return res.json(422, err);
@@ -14,7 +16,7 @@ var validationError = function(res, err) {
  * restriction: 'admin'
  */
 exports.index = function(req, res) {
-  User.find({}, '-salt -hashedPassword', function (err, users) {
+  User.getAll(function (err, users) {
     if(err) return res.send(500, err);
     res.json(200, users);
   });
@@ -40,7 +42,7 @@ exports.create = function (req, res, next) {
 exports.show = function (req, res, next) {
   var userId = req.params.id;
 
-  User.findById(userId, '-salt -hashedPassword', function (err, user) {
+  User.getOne(userId, function (err, user) {
     if (err) return next(err);
     if (!user) return res.send(401);
     res.json(user);
@@ -84,12 +86,9 @@ exports.changePassword = function(req, res, next) {
  */
 exports.me = function(req, res, next) {
   var userId = req.user._id;
-  User.findOne({
-    _id: userId
-  }, '-salt -hashedPassword', function(err, user) { // don't ever give out the password or salt
+  User.getOne(userId, function(err, user) {
     if (err) return next(err);
-    if (!user) return res.json(401);
-    res.json(user);
+    res.json(200, user);
   });
 };
 
@@ -101,28 +100,30 @@ exports.createUserProduct = function(req, res, next) {
   User.findById(userId, function (err, user) {
     if (err) return next(err);
     if (!user) return res.send(401);
-    var newUserProduct = user.products.create(req.body);
     user.products.unshift(req.body);
     user.save(function(err) {
       if (err) return validationError(res, err);
-      res.json(201, newUserProduct);
+      res.json(201, _.first(user.products));
     })
   });
 };
 
 exports.createUserProductComment = function(req, res, next) {
   var userId = req.params.userId;
-  var productId = req.params.productid;
+  var productId = req.params.productId;
 
   User.findById(userId, function (err, user) {
     if (err) return next(err);
     if (!user) return res.send(401);
-    var newUserProductComment = user.products.id(productId).comments.create(req.body);
     user.products.id(productId).comments.push(req.body);
     user.save(function(err) {
       if (err) return validationError(res, err);
-      res.json(201, newUserProductComment);
-    })
+      var comment = _.last(user.products.id(productId).comments);
+      Comment.populate(comment, {path: 'author', select: '-salt -hashedPassword', model: 'User'}, function(err, comment) {
+        if (err) return validationError(res, err);
+        res.json(201, comment);
+      })
+    });
   });
 }
 

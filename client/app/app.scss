@@ -312,7 +312,9 @@ body {
             list-style: none;
             position: absolute;
             top: 120px;
-            left: 220px; }
+            left: 220px;
+            font-size: 18px;
+             }
             #wrapper-header .header header .heading-block .avatar-wrapper .menu li {
               display: inline-block; }
               #wrapper-header .header header .heading-block .avatar-wrapper .menu li a {
@@ -772,7 +774,8 @@ body {
             font-size: 20px; }
       #page-wrapper .content-wrapper .news-line section:nth-child(even) img {
         float: right;
-        width: 250px; }
+        // width: 250px;
+      }
       #page-wrapper .content-wrapper .news-line section:last-of-type {
         margin-bottom: 100px; }
 
@@ -837,7 +840,8 @@ body {
     height: 50px;
     margin-top: 45px;
     color: #000;
-    float: right; }
+    float: right;
+  }
     #page-wrapper section.product-char .oplus:hover {
       color: #59AD5B; }
 

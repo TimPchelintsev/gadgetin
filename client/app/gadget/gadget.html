@@ -13,7 +13,7 @@
                     </div>
                     <div class="comment-wrapper">
                         <div class="comment">
-                            Это лучший (с дизайнерской точки зрения) смартфон! А отличные характеристики позволяют чувствовать его мощность еще пору лет. Lenovo молодци!
+                            {{product.feedback.text}}
                         </div>
                     </div>
                     <div class="likes-info">
@@ -37,18 +37,14 @@
                 </article>
             </section>
             <div class="comment-for-like">
-                <div class="comment-device-like">
-                    <a href="#"><img src="img/fotouser/DSC_4439.JPG" alt="user"></a>
-                    <div><a href="#">Max Frolov</a></div>
-                    <div class="my-device-like-comment">Лучший выбор</div>
+                <div class="comment-device-like" ng-repeat="comment in product.comments">
+                    <a href="#"><img ng-src="{{comment.author.imageUrl}}}" alt="{{comment.author.name}}}"></a>
+                    <div><a href="#">{{comment.author.name}}</a></div>
+                    <div class="my-device-like-comment">{{comment.text}}</div>
                 </div>
-                <div class="comment-device-like">
-                    <a href="#"><img src="img/fotouser/128.jpg" alt="user"></a>
-                    <div><a href="#">Mykola Mykolenko</a></div>
-                    <div class="my-device-like-comment">Вообще круто</div>
-                </div>
+
                 <div class="comment-device-my-like">
-                    <input type="text" placeholder="Type you comment...">
+                    <input type="text" placeholder="Type you comment..." ng-model="newComment" ng-keypress="($event.which === 13)?submit(newComment):0">
                 </div>
             </div>
             <div class="galery-my-gadgets">

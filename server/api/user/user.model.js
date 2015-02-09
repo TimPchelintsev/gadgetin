@@ -4,23 +4,9 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 var crypto = require('crypto');
 var authTypes = ['github', 'twitter', 'facebook', 'google'];
+var CommentSchema = require('./comment').schema;
+var UserProductSchema = require('./user_product').schema;
 
-var CommentSchema = new Schema({
-  author: Schema.Types.ObjectId,
-  created: {type: Date, default: Date.now},
-  text: String
-});
-
-var UserProductSchema = new Schema({
-  relatedProduct: Schema.Types.ObjectId,
-  category: String,
-  name: String,
-  company: String,
-  imageUrl: String,
-  specs: [Schema.Types.Mixed],
-  comments: [CommentSchema],
-  feedback: {text: String, rating: Number}
-});
 
 var UserSchema = new Schema({
   name: String,
@@ -57,14 +43,11 @@ UserSchema
     return this._password;
   });
 
-// Public profile information
+  // User profile url
 UserSchema
-  .virtual('profile')
+  .virtual('profileUrl')
   .get(function() {
-    return {
-      'name': this.name,
-      'role': this.role
-    };
+    return '/users/' + this._id;
   });
 
 // Non-sensitive info we'll be putting in the token
@@ -130,9 +113,33 @@ UserSchema
   });
 
 /**
+* Statics
+*/
+UserSchema.statics = {
+  getAll: function(cb) {
+    return this.find()
+               .populate('products.comments.author', '-salt -hashedPassword')
+               .exec(cb);
+  },
+  getOne: function(userId, cb) {
+    return this.model('User').findById(userId)
+               .populate('products.comments.author', '-salt -hashedPassword')
+               .exec(cb);
+
+  }
+};
+
+/**
  * Methods
  */
 UserSchema.methods = {
+
+  getSelf: function(cb) {
+    return this.model('User').findById(this._id)
+               .populate('products.comments.author', '-salt -hashedPassword')
+               .exec(cb);
+
+  },
   /**
    * Authenticate - check if the passwords are the same
    *
@@ -167,5 +174,13 @@ UserSchema.methods = {
     return crypto.pbkdf2Sync(password, salt, 10000, 64).toString('base64');
   }
 };
+
+UserSchema.set('toObject', {
+    virtuals: true
+});
+
+UserSchema.set('toJSON', {
+    virtuals: true
+});
 
 module.exports = mongoose.model('User', UserSchema);

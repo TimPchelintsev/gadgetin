@@ -9,7 +9,8 @@ angular.module('gadgetinApp', [
   'ui.bootstrap',
   'restangular',
   'ngDialog',
-  'smoothScroll'
+  'smoothScroll',
+  'angularMoment'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider,
                     $httpProvider, RestangularProvider) {

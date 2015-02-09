@@ -5,12 +5,15 @@
         <header>
             <a href="#"><img src="assets/images/gadgetin_logo.png"></a>
             <div id="profile-settings">
+                <a href="/profile">Profile</a>
+                <a href="/settings">Settings</a>
                 <a href ng-click="logout()">Logout</a>
             </div>
             <div class="heading-block">
                 <div class="avatar-wrapper">
                     <div id="avatar">
-                        <a href="/profile"><img ng-src="{{profile.imageUrl}}" alt="{{profile.name}}"></a>
+                        <a href="/settings"><img ng-src="{{profile.imageUrl}}" alt="{{profile.name}}" ng-if="isOwnPage()"></a>
+                        <a href=""><img ng-src="{{profile.imageUrl}}" alt="{{profile.name}}" ng-if="!isOwnPage()"></a>
                     </div>
                     <ul id="name">
                         <li>{{profile.name}}</li>
@@ -48,11 +51,17 @@
                 <article class="right-article">
                     <div class="product-header">
                         <h2><a ng-href="/gadgets/{{product._id}}">{{product.company}} {{product.name}}</a></h2>
-                        <div> 2 days ago</div>
+                        <div><span am-time-ago="product.created"></span></div>
+                        <br>
+                        <div ng-hide="product.edit || !isOwnPage()"><a href ng-click="product.edit = true">Edit</a></div>
+                        <div ng-show="product.edit"><a href ng-click="product.edit = false">Done</a></div>
                     </div>
                     <div class="comment-wrapper">
-                        <div class="comment">
+                        <div class="comment" ng-if="!product.edit">
                             {{product.feedback.text}}
+                        </div>
+                        <div class="comment" ng-if="product.edit">
+                            <textarea name="" id="" cols="50" rows="5" ng-model="product.feedback.text"></textarea>
                         </div>
                     </div>
                     <!-- <div class="likes-info">
@@ -63,6 +72,17 @@
                             <li><a href="#"><img src="img/fotouser/DSC_4451.JPG" alt="user-1"></a></li>
                         </ul>
                     </div> -->
+                    <div class="comment-for-like">
+                        <div class="comment-device-like" ng-repeat="comment in product.comments">
+                            <a ng-href="{{comment.author.profileUrl}}"><img ng-src="{{comment.author.imageUrl}}" alt="{{comment.author.name}}"></a>
+                            <div><a ng-href="{{comment.author.profileUrl}}">{{comment.author.name}}</a></div>
+                            <div class="my-device-like-comment">{{comment.text}}</div>
+                        </div>
+
+                        <div class="comment-device-my-like">
+                            <input type="text" placeholder="Type your comment..." ng-model="product.comment" ng-keypress="($event.which === 13)?submit(product, product.comment):0">
+                        </div>
+                    </div>
                 </article>
             </section>
         </div>

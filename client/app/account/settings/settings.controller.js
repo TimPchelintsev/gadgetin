@@ -4,6 +4,10 @@ angular.module('gadgetinApp')
   .controller('SettingsCtrl', function ($scope, User, Auth) {
     $scope.errors = {};
 
+    Auth.getCurrentUser(function(user) {
+      $scope.profile = user;
+    });
+
     $scope.changePassword = function(form) {
       $scope.submitted = true;
       if(form.$valid) {

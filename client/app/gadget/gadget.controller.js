@@ -8,6 +8,6 @@ angular.module('gadgetinApp')
     $scope.changeView = utils.changeView;
     Auth.getCurrentUser(function(user) {
       $scope.profile = user;
-      $scope.product = _.find(user.products, {_id: productId});
+      $scope.product = _.find(user.products, {_id: productId}); //FIXME: error 404 handling needed
     });
   });

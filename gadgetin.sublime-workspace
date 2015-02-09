@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"is",
+				"isOwnPage"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"produ",
+				"productid"
+			],
+			[
 				"dur",
 				"duration_slug	statement"
 			],
@@ -416,10 +428,6 @@
 				"model_instance	param"
 			],
 			[
-				"is",
-				"isinstance	function"
-			],
-			[
 				"mo",
 				"model_instance	param"
 			],
@@ -443,6 +451,110 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "client/app/gadget/gadget.html",
+			"settings":
+			{
+				"buffer_size": 3570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/components/api/api.js",
+			"settings":
+			{
+				"buffer_size": 1095,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/gadget/gadget.controller.js",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/account/account.js",
+			"settings":
+			{
+				"buffer_size": 937,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/account/profile/profile.controller.js",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/account/profile/profile.html",
+			"settings":
+			{
+				"buffer_size": 2856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/config/seed.js",
+			"settings":
+			{
+				"buffer_size": 2067,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/people/people.html",
+			"settings":
+			{
+				"buffer_size": 1436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/components/header/header.controller.js",
+			"settings":
+			{
+				"buffer_size": 644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/components/header/header.html",
+			"settings":
+			{
+				"buffer_size": 1782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/components/utils/utils.js",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/api/user/index.js",
+			"settings":
+			{
+				"buffer_size": 990,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/api/user/user.controller.js",
+			"settings":
+			{
+				"buffer_size": 3279,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -496,14 +608,85 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/timofey/Projects/gadgetin"
+		"/Users/timofey/Projects/gadgetin",
+		"/Users/timofey/Projects/gadgetin/client",
+		"/Users/timofey/Projects/gadgetin/client/app",
+		"/Users/timofey/Projects/gadgetin/client/app/account",
+		"/Users/timofey/Projects/gadgetin/client/app/account/profile",
+		"/Users/timofey/Projects/gadgetin/client/app/people",
+		"/Users/timofey/Projects/gadgetin/client/components",
+		"/Users/timofey/Projects/gadgetin/client/components/api",
+		"/Users/timofey/Projects/gadgetin/client/components/auth",
+		"/Users/timofey/Projects/gadgetin/client/components/utils",
+		"/Users/timofey/Projects/gadgetin/server",
+		"/Users/timofey/Projects/gadgetin/server/api",
+		"/Users/timofey/Projects/gadgetin/server/api/user"
 	],
 	"file_history":
 	[
+		"/Users/timofey/Projects/gadgetin/client/components/auth/user.service.js",
+		"/Users/timofey/Projects/gadgetin/server/api/user/user.model.js",
+		"/Users/timofey/Projects/gadgetin/server/config/socketio.js",
+		"/Users/timofey/Projects/gadgetin/client/app/app.scss",
+		"/Users/timofey/Projects/gadgetin/client/app/gadgets/gadgets.html",
+		"/Users/timofey/Projects/gadgetin/client/app/account/profile/profile.html",
+		"/Users/timofey/Projects/gadgetin/server/routes.js",
+		"/Users/timofey/Projects/gadgetin/client/components/header/header.html",
+		"/Users/timofey/Projects/gadgetin/client/app/gadgets/gadgets.controller.js",
+		"/Users/timofey/Projects/gadgetin/client/assets/_add_gadget_popup.html",
+		"/Users/timofey/Projects/gadgetin/client/app/app.js",
+		"/Users/timofey/Projects/gadgetin/client/app/gadget/gadget.js",
+		"/Users/timofey/Projects/gadgetin/client/index.html",
+		"/Users/timofey/Projects/gadgetin/bower.json",
+		"/Users/timofey/Projects/gadgetin/karma.conf.js",
+		"/Users/timofey/Projects/gadgetin/client/app/gadgets/gadgets.js",
+		"/Users/timofey/Projects/gadgetin/client/app/account/profile/profile.controller.js",
+		"/Users/timofey/Projects/gadgetin/server/api/user/user.controller.js",
+		"/Users/timofey/Projects/gadgetin/Gruntfile.js",
+		"/Users/timofey/Projects/gadgetin/server/api/thing/thing.controller.js",
+		"/Users/timofey/Projects/gadgetin/client/app/main/main.controller.js",
+		"/Users/timofey/Projects/gadgetin/client/components/socket/socket.service.js",
+		"/Users/timofey/Projects/gadgetin/client/app/people/people.html",
+		"/Users/timofey/Projects/gadgetin/client/app/people/people.controller.js",
+		"/Users/timofey/Projects/gadgetin/client/app/account/login/login.html",
+		"/Users/timofey/Projects/gadgetin/client/components/navbar/navbar.html",
+		"/Users/timofey/Projects/gadgetin/client/app/account/signup/signup.html",
+		"/Users/timofey/Projects/gadgetin/server/api/thing/thing.socket.js",
+		"/Users/timofey/Projects/gadgetin/client/app/main/main.html",
+		"/Users/timofey/Projects/gadgetin/server/api/product/product.model.js",
+		"/Users/timofey/Projects/gadgetin/server/config/environment/test.js",
+		"/Users/timofey/Projects/gadgetin/server/config/seed.js",
+		"/Users/timofey/Projects/gadgetin/client/components/mongoose-error/mongoose-error.directive.js",
+		"/Users/timofey/Projects/gadgetin/server/config/local.env.js",
+		"/Users/timofey/Projects/gadgetin/gadgetin.sublime-project",
+		"/Users/timofey/Projects/gadgetin/client/components/header/header.controller.js",
+		"/Users/timofey/Projects/gadgetin/client/components/api/api.js",
+		"/Users/timofey/Projects/gadgetin/client/components/auth/auth.service.js",
+		"/Users/timofey/Projects/gadgetin/client/components/navbar/navbar.controller.js",
+		"/Users/timofey/Projects/gadgetin/server/api/user/index.js",
+		"/Users/timofey/Projects/gadgetin/client/components/utils/utils.js",
+		"/Users/timofey/Projects/gadgetin/client/app/account/login/login.controller.js",
+		"/Users/timofey/Projects/gadgetin/client/app/account/account.js",
+		"/Users/timofey/Projects/gadgetin/bower_with_bootstrap.json",
+		"/Users/timofey/Projects/gadgetin/client/app/account/login/login.scss",
+		"/Users/timofey/Projects/gadgetin/client/robots.txt",
+		"/Users/timofey/Projects/gadgetin/client/components/modal/modal.html",
+		"/Users/timofey/Projects/gadgetin/.tmp/tmp-templates.js",
+		"/Users/timofey/Projects/gadgetin/.travis.yml",
+		"/Users/timofey/Projects/gadgetin/.gitignore",
+		"/Users/timofey/Projects/gadgetin/client/.htaccess",
+		"/Users/timofey/Projects/gadgetin/server/app.js",
+		"/Users/timofey/Projects/gadgetin/server/auth/auth.service.js",
+		"/Users/timofey/Projects/gadgetin/server/auth/facebook/passport.js",
+		"/Users/timofey/Projects/gadgetin/.sass-cache/29cad2930296e156db8870fd26e899964e420a82/_normalize.scssc",
+		"/Users/timofey/Projects/gadgetin/.tmp/concat/app/vendor.css",
+		"/Users/timofey/Projects/gadgetin/server/api/thing/thing.model.js",
+		"/Users/timofey/Projects/gadgetin/node_modules/grunt-node-inspector/node_modules/.bin/node-debug",
+		"/Users/timofey/Projects/gadgetin/node_modules/grunt-newer/test/integration/newer-override.spec.js"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -549,6 +732,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"404",
+			"#wrapper-header",
+			"input",
+			"open",
+			"serve",
+			"console.log",
+			"register",
+			"me",
+			"User.get",
+			"changeView",
+			"#avatar im",
+			"bootstrap",
 			"console",
 			"?durations=4",
 			"/api",
@@ -664,19 +859,7 @@
 			"discount-list__img",
 			"thumbnail",
 			"social-net",
-			"club_",
-			"club_names",
-			"send(",
-			"starlda",
-			"def get_detail_url(self, obj):\n        return reverse('club_detail', kwargs={'slug': obj.slug})",
-			"console.log",
-			"resize",
-			"submitSearch",
-			"typeahead",
-			".ng-hide",
-			"search",
-			"currentOrderBy",
-			"import settings"
+			"club_"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -709,8 +892,396 @@
 	"groups":
 	[
 		{
+			"selected": 5,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "client/app/gadget/gadget.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/components/api/api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/app/gadget/gadget.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/app/account/account.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/app/account/profile/profile.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								796,
+								796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/app/account/profile/profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1265,
+								1265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/config/seed.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 21.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "client/app/people/people.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "client/components/header/header.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "client/components/header/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "client/components/utils/utils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "server/api/user/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "server/api/user/user.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1481,
+								1481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1061.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -765,12 +1336,152 @@
 		"selected_items":
 		[
 			[
-				"inde",
-				"client/index.html"
+				"user.",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"se",
+				"server/config/seed.js"
+			],
+			[
+				"heco",
+				"client/components/header/header.controller.js"
+			],
+			[
+				"he",
+				"client/components/header/header.html"
+			],
+			[
+				"rou",
+				"server/routes.js"
+			],
+			[
+				"api.js",
+				"client/components/api/api.js"
 			],
 			[
 				"app.js",
 				"client/app/app.js"
+			],
+			[
+				"app",
+				"client/app/app.scss"
+			],
+			[
+				"ka",
+				"karma.conf.js"
+			],
+			[
+				"in",
+				"client/index.html"
+			],
+			[
+				"gad",
+				"client/app/gadgets/gadgets.html"
+			],
+			[
+				"soc",
+				"server/config/socketio.js"
+			],
+			[
+				"soce",
+				"client/components/socket/socket.service.js"
+			],
+			[
+				"main.con",
+				"client/app/main/main.controller.js"
+			],
+			[
+				"thi",
+				"server/api/thing/thing.controller.js"
+			],
+			[
+				"na",
+				"client/components/navbar/navbar.html"
+			],
+			[
+				"login",
+				"client/app/account/login/login.html"
+			],
+			[
+				"gadgets",
+				"client/app/gadgets/gadgets.html"
+			],
+			[
+				"profile.co",
+				"client/app/account/profile/profile.controller.js"
+			],
+			[
+				"profile",
+				"client/app/account/profile/profile.html"
+			],
+			[
+				"auth",
+				"client/components/auth/auth.service.js"
+			],
+			[
+				"user.se",
+				"client/components/auth/user.service.js"
+			],
+			[
+				"ro",
+				"server/routes.js"
+			],
+			[
+				"api",
+				"client/components/api/api.js"
+			],
+			[
+				"user.mo",
+				"server/api/user/user.model.js"
+			],
+			[
+				"ap",
+				"client/app/app.scss"
+			],
+			[
+				"ind",
+				"client/index.html"
+			],
+			[
+				"app.c",
+				"client/app/app.scss"
+			],
+			[
+				"naco",
+				"client/components/navbar/navbar.controller.js"
+			],
+			[
+				"hea",
+				"client/components/header/header.html"
+			],
+			[
+				"pro",
+				"client/app/account/profile/profile.controller.js"
+			],
+			[
+				"nav",
+				"client/components/navbar/navbar.html"
+			],
+			[
+				"inde",
+				"client/index.html"
+			],
+			[
+				"user",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"us",
+				"server/api/user/user.model.js"
+			],
+			[
+				"profi",
+				"client/app/account/profile/profile.controller.js"
+			],
+			[
+				"model",
+				"server/api/product/product.model.js"
 			],
 			[
 				"clubs_list",
@@ -779,10 +1490,6 @@
 			[
 				"filters",
 				"src/abone_me/client/app/card_list/_filters.html"
-			],
-			[
-				"he",
-				"src/abone_me/client/app/header/header.html"
 			],
 			[
 				"order_",
@@ -877,10 +1584,6 @@
 				"src/abone_me/apps/cards/models.py"
 			],
 			[
-				"pro",
-				"src/abone_me/settings/production.py"
-			],
-			[
 				"de",
 				"src/abone_me/settings/development.py"
 			],
@@ -905,16 +1608,8 @@
 				"src/abone_me/apps/api_urls.py"
 			],
 			[
-				"app",
-				"client/app/app.js"
-			],
-			[
 				"gru",
 				"Gruntfile.js"
-			],
-			[
-				"ind",
-				"client/index.html"
 			],
 			[
 				"i",
@@ -985,16 +1680,8 @@
 				"server/api/user/user.model.js"
 			],
 			[
-				"auth",
-				"client/components/auth/auth.service.js"
-			],
-			[
 				"profil",
 				"client/app/account/profile/profile.controller.js"
-			],
-			[
-				"user.se",
-				"client/components/auth/user.service.js"
 			],
 			[
 				"map",
@@ -1035,14 +1722,6 @@
 			[
 				"order_page",
 				"src/abone_me/templates/orders/order_page.html"
-			],
-			[
-				"profile",
-				"client/app/account/profile/profile.controller.js"
-			],
-			[
-				"user",
-				"server/api/user/user.model.js"
 			],
 			[
 				"product",
@@ -1103,10 +1782,6 @@
 			[
 				"orderse",
 				"src/abone_me/static/js/angular/app-cards/services/ordersService.js"
-			],
-			[
-				"api.js",
-				"src/abone_me/client/app/components/api/api.js"
 			],
 			[
 				"api_viw",
@@ -1171,110 +1846,6 @@
 			[
 				"util",
 				"src/abone_me/apps/orders/utils.py"
-			],
-			[
-				"utils",
-				"src/abone_me/apps/utils.py"
-			],
-			[
-				"ordermo",
-				"src/abone_me/apps/orders/models.py"
-			],
-			[
-				"api_vi",
-				"src/abone_me/apps/api_views.py"
-			],
-			[
-				"ordes",
-				"src/abone_me/static/js/angular/app-cards/services/ordersService.js"
-			],
-			[
-				"ordco",
-				"src/abone_me/templates/orders/order_completed_email.html"
-			],
-			[
-				"ordersmode",
-				"src/abone_me/apps/orders/models.py"
-			],
-			[
-				"ord",
-				"src/abone_me/templates/orders/order_page.html"
-			],
-			[
-				".gi",
-				".gitignore"
-			],
-			[
-				"mana",
-				"src/manage.py"
-			],
-			[
-				"ramo",
-				"conf/development/ramona.conf"
-			],
-			[
-				"filters.py",
-				"src/abone_me/apps/filters.py"
-			],
-			[
-				"urls",
-				"src/abone_me/urls.py"
-			],
-			[
-				"baseh",
-				"src/abone_me/templates/base.html"
-			],
-			[
-				"cards.co",
-				"src/abone_me/client/app/card_list/card_list.controller.js"
-			],
-			[
-				"cardsc",
-				"src/abone_me/static/js/angular/app-cards/controllers/cardsCtrl.js"
-			],
-			[
-				"api_ve",
-				"src/abone_me/apps/api_views.py"
-			],
-			[
-				"cardsmod",
-				"src/abone_me/apps/cards/models.py"
-			],
-			[
-				"cardlistcon",
-				"src/abone_me/client/app/card_list/card_list.controller.js"
-			],
-			[
-				"home.h",
-				"src/abone_me/client/app/home/home.html"
-			],
-			[
-				"homecon",
-				"src/abone_me/client/app/home/home.controller.js"
-			],
-			[
-				"map.",
-				"src/abone_me/client/app/components/map/map.js"
-			],
-			[
-				"home",
-				"src/abone_me/client/app/home/home.html"
-			],
-			[
-				"api",
-				"src/abone_me/static/js/angular/app-cards/services/api.js"
-			],
-			[
-				"cardlistco",
-				"src/abone_me/client/app/card_list/card_list.controller.js"
-			],
-			[
-				"api_ur",
-				"src/abone_me/apps/api_urls.py"
-			],
-			[
-				"base",
-				"requirements/base.txt"
 			]
 		],
 		"width": 0.0

@@ -26,4 +26,17 @@ angular.module('gadgetinApp')
       Auth.logout();
       utils.changeView('/login');
     };
+    $scope.submit = function(product, _text) {
+      var comment = {
+        author: $scope.currentUser._id,
+        text: _text,
+      };
+      $scope.currentUser.commentProduct($scope.profile, product, comment).then(
+        function(comment) {
+          console.log(comment);
+          product.comments.push(comment);
+          product.comment = null;
+
+        });
+    };
   });

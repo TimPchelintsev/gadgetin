@@ -1512,60 +1512,6 @@
     "name": "GSmart T4"
 }, {
     "category": "Smartphones",
-    "imageUrl": "http://hotline.ua/img/tx/703/70330873.jpg",
-    "company": "Lenovo",
-    "specs": [{
-        "isMain": true,
-        "name": "color",
-        "value": "Grey",
-        "orderIndex": 0
-    }, {
-        "name": "card type",
-        "value": "Mini-SIM"
-    }, {
-        "name": "cards number",
-        "value": "2 SIM"
-    }, {
-        "isMain": true,
-        "name": "screen size",
-        "value": "5,3\"",
-        "orderIndex": 4
-    }, {
-        "name": "screen type",
-        "value": "IPS"
-    }, {
-        "isMain": true,
-        "name": "resolution",
-        "value": "1280\u0445720",
-        "orderIndex": 3
-    }, {
-        "isMain": true,
-        "name": "storage",
-        "value": "16 \u0413\u0411",
-        "orderIndex": 2
-    }, {
-        "isMain": true,
-        "name": "RAM",
-        "value": "2 \u0413\u0411",
-        "orderIndex": 1
-    }, {
-        "name": "processor",
-        "value": "Mediatek MT6592M + GPU Mali-450MP4"
-    }, {
-        "name": "number of cores",
-        "value": "8"
-    }, {
-        "isMain": true,
-        "name": "camera",
-        "value": "13 \u041c\u041f",
-        "orderIndex": 5
-    }, {
-        "name": "OS",
-        "value": "Android 4.2.2 (Jelly Bean)"
-    }],
-    "name": "S8/S898T+"
-}, {
-    "category": "Smartphones",
     "imageUrl": "http://hotline.ua/img/tx/829/8294403.jpg",
     "company": "Samsung",
     "specs": [{
@@ -3400,60 +3346,6 @@
         "value": "Nokia X 1.0 (\u043d\u0430 \u0431\u0430\u0437\u0435 Android 4.1.2)"
     }],
     "name": "XL Dual SIM"
-}, {
-    "category": "Smartphones",
-    "imageUrl": "http://hotline.ua/img/tx/893/89394473.jpg",
-    "company": "Lenovo",
-    "specs": [{
-        "isMain": true,
-        "name": "color",
-        "value": "Black",
-        "orderIndex": 0
-    }, {
-        "name": "card type",
-        "value": "Mini-SIM"
-    }, {
-        "name": "cards number",
-        "value": "1 SIM"
-    }, {
-        "isMain": true,
-        "name": "screen size",
-        "value": "5\"",
-        "orderIndex": 4
-    }, {
-        "name": "screen type",
-        "value": "IPS"
-    }, {
-        "isMain": true,
-        "name": "resolution",
-        "value": "1280\u0445720",
-        "orderIndex": 3
-    }, {
-        "isMain": true,
-        "name": "storage",
-        "value": "16 \u0413\u0411",
-        "orderIndex": 2
-    }, {
-        "isMain": true,
-        "name": "RAM",
-        "value": "2 \u0413\u0411",
-        "orderIndex": 1
-    }, {
-        "name": "processor",
-        "value": "Mediatek MT6592 + GPU Mali-450MP4"
-    }, {
-        "name": "number of cores",
-        "value": "8"
-    }, {
-        "isMain": true,
-        "name": "camera",
-        "value": "13 \u041c\u041f",
-        "orderIndex": 5
-    }, {
-        "name": "OS",
-        "value": "Android 4.4 (KitKat)"
-    }],
-    "name": "A8/A808t"
 }, {
     "category": "Smartphones",
     "imageUrl": "http://hotline.ua/img/tx/878/8788323.jpg",

@@ -1,4 +1,6 @@
-<div ng-include="'components/navbar/navbar.html'"></div>
+<div ng-include="'components/header/header.html'"></div>
+
+<div style="padding-top: 120px"></div>
 
 <div class="container">
   <div class="row">
@@ -9,9 +11,8 @@
       <form class="form" name="form" ng-submit="changePassword(form)" novalidate>
 
         <div class="form-group">
-          <label>Current Password</label>
 
-          <input type="password" name="password" class="form-control" ng-model="user.oldPassword"
+          <input type="password" name="password" class="form-control" ng-model="user.oldPassword" placeholder="Current Password"
                  mongoose-error/>
           <p class="help-block" ng-show="form.password.$error.mongoose">
               {{ errors.other }}
@@ -19,9 +20,8 @@
         </div>
 
         <div class="form-group">
-          <label>New Password</label>
 
-          <input type="password" name="newPassword" class="form-control" ng-model="user.newPassword"
+          <input type="password" name="newPassword" class="form-control" ng-model="user.newPassword" placeholder="New Password"
                  ng-minlength="3"
                  required/>
           <p class="help-block"
@@ -33,6 +33,28 @@
         <p class="help-block"> {{ message }} </p>
 
         <button class="btn btn-lg btn-primary" type="submit">Save changes</button>
+      </form>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <h1>Change Avatar</h1>
+    </div>
+    <div class="col-sm-12">
+      <form class="form" name="avatarForm" ng-submit="changeAvatar(avatarForm)" novalidate>
+
+        <div class="form-group">
+
+          <input type="text" name="avatar" class="form-control" ng-model="profile.imageUrl" placeholder="Avatar URL"
+                 mongoose-error disabled="" />
+          <p class="help-block" ng-show="form.avatar.$error.mongoose">
+              {{errors.other}}
+          </p>
+        </div>
+
+        <p class="help-block"> {{ message }} </p>
+
+        <button class="btn btn-lg btn-primary" type="submit" disabled="">Save Changes</button>
       </form>
     </div>
   </div>

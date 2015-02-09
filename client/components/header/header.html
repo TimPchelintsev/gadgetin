@@ -3,7 +3,8 @@
         <header>
             <a href="#"><img src="assets/images/gadgetin_logo.png"></a>
             <div id="profile-settings">
-                <!-- <a ng-show="isLoggedIn()" href="/profile">Profile</a> -->
+                <a ng-show="isLoggedIn()" href="/profile">Profile</a>
+                <a ng-show="isLoggedIn()" href="/settings">Settings</a>
                 <a ng-show="isLoggedIn()" href="" ng-click="logout()">Logout</a>
                 <a ng-hide="isLoggedIn()" href="/login">Login</a>
                 <a ng-hide="isLoggedIn()" href="/signup">Signup</a>
