@@ -9,6 +9,9 @@ angular.module('gadgetinApp')
       user.addProduct = function(product) {
         return Restangular.one('users', 'me').all('products').post(product);
       };
+      user.updateProduct = function(product) {
+        return Restangular.one('users', 'me').one('products', product._id).customPUT(product);
+      };
       user.commentProduct = function(owner, product, comment) {
         return Restangular
                 .one('users', owner._id)

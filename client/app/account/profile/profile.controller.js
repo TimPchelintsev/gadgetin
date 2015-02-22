@@ -39,4 +39,12 @@ angular.module('gadgetinApp')
 
         });
     };
+    $scope.editDone = function(product) {
+      $scope.profile.updateProduct(product).then(
+        function(data) {
+          console.log(data);
+          product.feedback.text = data.feedback.text;
+          product.edit = false;
+      });
+    };
   });

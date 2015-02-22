@@ -108,6 +108,25 @@ exports.createUserProduct = function(req, res, next) {
   });
 };
 
+
+// Updates user product.
+exports.updateUserProduct = function(req, res, next) {
+  var userId = req.user._id;
+  var productId = req.params.productId;
+
+  User.findById(userId, function (err, user) {
+    if (err) return next(err);
+    if (!user) return res.send(401);
+    var product = user.products.id(productId);
+    product = _.merge(product, req.body);
+    user.save(function(err) {
+      if (err) return validationError(res, err);
+      res.json(200, user.products.id(productId));
+    })
+  });
+};
+
+
 exports.createUserProductComment = function(req, res, next) {
   var userId = req.params.userId;
   var productId = req.params.productId;
