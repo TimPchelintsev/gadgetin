@@ -46,6 +46,16 @@
     <div class="content-wrapper">
         <div class="news-line">
 
+
+            <section ng-if="!profile.products.length" ng-cloak>
+                <a ng-href="/gadgets"><img ng-src="assets/images/gadget_default1.jpg"/></a>
+                <article class="right-article">
+                    <div class="product-header">
+                        <a ng-href="/gadgets" class="btn btn-lg btn-primary">ADD YOUR FIRST GADGET</a>
+                    </div>
+                </article>
+            </section>
+
             <section ng-repeat="product in profile.products">
                 <a ng-href="/gadgets/{{product._id}}"><img ng-src="{{product.imageUrl}}"/></a>
                 <article class="right-article">

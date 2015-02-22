@@ -39,6 +39,7 @@ angular.module('gadgetinApp')
             console.log('progress: ' + progressPercentage + '% ' + evt.config.file.name);
           }).success(function (data, status, headers, config) {
             console.log('file ' + config.file.name + 'uploaded. Response: ' + data);
+            window.location = '/profile'; //FIXME: need angular way
           });
         }
       }
