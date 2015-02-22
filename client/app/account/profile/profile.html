@@ -64,7 +64,7 @@
                         <div><span am-time-ago="product.created"></span></div>
                         <br>
                         <div ng-hide="product.edit || !isOwnPage()"><a href ng-click="product.edit = true">Edit</a></div>
-                        <div ng-show="product.edit"><a href ng-click="product.edit = false">Done</a></div>
+                        <div ng-show="product.edit"><a href ng-click="editDone(product)">Done</a></div>
                     </div>
                     <div class="comment-wrapper">
                         <div class="comment" ng-if="!product.edit">
