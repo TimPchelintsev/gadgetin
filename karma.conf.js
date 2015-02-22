@@ -27,6 +27,7 @@ module.exports = function(config) {
       'client/bower_components/ngSmoothScroll/angular-scroll-smooth.js',
       'client/bower_components/moment/moment.js',
       'client/bower_components/angular-moment/angular-moment.js',
+      'client/bower_components/ng-file-upload/angular-file-upload.js',
       'client/app/app.js',
       'client/app/app.coffee',
       'client/app/**/*.js',

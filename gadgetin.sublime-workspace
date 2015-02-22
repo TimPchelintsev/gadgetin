@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"Use",
+				"UserSchema"
+			],
+			[
+				"Com",
+				"CommentSchema"
+			],
+			[
+				"Us",
+				"UserProductSchema"
+			],
+			[
+				"fol",
+				"followers"
+			],
+			[
 				"is",
 				"isOwnPage"
 			],
@@ -455,7 +471,7 @@
 			"file": "client/app/gadget/gadget.html",
 			"settings":
 			{
-				"buffer_size": 3570,
+				"buffer_size": 3325,
 				"line_ending": "Unix"
 			}
 		},
@@ -463,23 +479,7 @@
 			"file": "client/components/api/api.js",
 			"settings":
 			{
-				"buffer_size": 1095,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/app/gadget/gadget.controller.js",
-			"settings":
-			{
-				"buffer_size": 354,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/app/account/account.js",
-			"settings":
-			{
-				"buffer_size": 937,
+				"buffer_size": 1097,
 				"line_ending": "Unix"
 			}
 		},
@@ -487,7 +487,7 @@
 			"file": "client/app/account/profile/profile.controller.js",
 			"settings":
 			{
-				"buffer_size": 844,
+				"buffer_size": 1219,
 				"line_ending": "Unix"
 			}
 		},
@@ -495,31 +495,71 @@
 			"file": "client/app/account/profile/profile.html",
 			"settings":
 			{
-				"buffer_size": 2856,
+				"buffer_size": 4444,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "server/config/seed.js",
+			"file": "server/api/product/products.json",
 			"settings":
 			{
-				"buffer_size": 2067,
+				"buffer_size": 122632,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "client/app/people/people.html",
+			"file": "client/app/feed/feed.html",
 			"settings":
 			{
-				"buffer_size": 1436,
+				"buffer_size": 174,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "client/components/header/header.controller.js",
+			"file": "client/app/account/settings/settings.controller.js",
 			"settings":
 			{
-				"buffer_size": 644,
+				"buffer_size": 773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/gadgets/gadgets.html",
+			"settings":
+			{
+				"buffer_size": 1550,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/main/main.html",
+			"settings":
+			{
+				"buffer_size": 5502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/main/main.scss",
+			"settings":
+			{
+				"buffer_size": 2898,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/main/main.controller.js",
+			"settings":
+			{
+				"buffer_size": 692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/_add_gadget_popup.html",
+			"settings":
+			{
+				"buffer_size": 2051,
 				"line_ending": "Unix"
 			}
 		},
@@ -527,15 +567,39 @@
 			"file": "client/components/header/header.html",
 			"settings":
 			{
-				"buffer_size": 1782,
+				"buffer_size": 1845,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "client/components/utils/utils.js",
+			"file": "client/app/account/settings/settings.html",
 			"settings":
 			{
-				"buffer_size": 445,
+				"buffer_size": 2029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/app.scss",
+			"settings":
+			{
+				"buffer_size": 43480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/api/user/user.model.js",
+			"settings":
+			{
+				"buffer_size": 4045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/people/people.html",
+			"settings":
+			{
+				"buffer_size": 1897,
 				"line_ending": "Unix"
 			}
 		},
@@ -552,6 +616,88 @@
 			"settings":
 			{
 				"buffer_size": 3279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/config/seed.js",
+			"settings":
+			{
+				"buffer_size": 2067,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/api/user/comment.js",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/api/user/user_product.js",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 722,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 5323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "karma.conf.js",
+			"settings":
+			{
+				"buffer_size": 2698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/app.js",
+			"settings":
+			{
+				"buffer_size": 1766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 112 files for \"lodash\"\n\n/Users/timofey/Projects/gadgetin/bower.json:\n   14      \"angular-bootstrap\": \"~0.11.0\",\n   15      \"font-awesome\": \">=4.1.0\",\n   16:     \"lodash\": \"~2.4.1\",\n   17      \"angular-socket-io\": \"~0.6.0\",\n   18      \"angular-ui-router\": \"~0.2.10\",\n\n/Users/timofey/Projects/gadgetin/karma.conf.js:\n   20        'client/bower_components/angular-route/angular-route.js',\n   21        'client/bower_components/angular-bootstrap/ui-bootstrap-tpls.js',\n   22:       'client/bower_components/lodash/dist/lodash.compat.js',\n   23        'client/bower_components/angular-socket-io/socket.js',\n   24        'client/bower_components/angular-ui-router/release/angular-ui-router.js',\n\n/Users/timofey/Projects/gadgetin/package.json:\n   13      \"errorhandler\": \"~1.0.0\",\n   14      \"compression\": \"~1.0.1\",\n   15:     \"lodash\": \"~2.4.1\",\n   16      \"ejs\": \"~0.8.4\",\n   17      \"mongoose\": \"~3.8.8\",\n\n/Users/timofey/Projects/gadgetin/client/index.html:\n   55        <script src=\"bower_components/angular-sanitize/angular-sanitize.js\"></script>\n   56        <script src=\"bower_components/angular-bootstrap/ui-bootstrap-tpls.js\"></script>\n   57:       <script src=\"bower_components/lodash/dist/lodash.compat.js\"></script>\n   58        <script src=\"bower_components/angular-socket-io/socket.js\"></script>\n   59        <script src=\"bower_components/angular-ui-router/release/angular-ui-router.js\"></script>\n\n/Users/timofey/Projects/gadgetin/server/api/product/product.controller.js:\n    7  'use strict';\n    8  \n    9: var _ = require('lodash');\n   10  var Product = require('./product.model');\n   11  \n\n/Users/timofey/Projects/gadgetin/server/api/thing/thing.controller.js:\n   10  'use strict';\n   11  \n   12: var _ = require('lodash');\n   13  var Thing = require('./thing.model');\n   14  \n\n/Users/timofey/Projects/gadgetin/server/config/environment/index.js:\n    2  \n    3  var path = require('path');\n    4: var _ = require('lodash');\n    5  \n    6  function requiredProcessEnv(name) {\n\n9 matches across 7 files\n\n\nSearching 113 files for \"user_product\"\n\n/Users/timofey/Projects/gadgetin/server/routes.js:\n   10  \n   11    // Insert routes below\n   12:   app.use('/api/user_products', require('./api/user_product'));\n   13    app.use('/api/things', require('./api/thing'));\n   14    app.use('/api/products', require('./api/product'));\n\n/Users/timofey/Projects/gadgetin/server/config/socketio.js:\n   19  \n   20    // Insert sockets below\n   21:   require('../api/user_product/user_product.socket').register(socket);\n   22    require('../api/thing/thing.socket').register(socket);\n   23  }\n\n/Users/timofey/Projects/gadgetin/server/api/user_product/index.js:\n    2  \n    3  var express = require('express');\n    4: var controller = require('./user_product.controller');\n    5  \n    6  var router = express.Router();\n\n5 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 2849,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "server/config/socketio.js",
+			"settings":
+			{
+				"buffer_size": 1651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/routes.js",
+			"settings":
+			{
+				"buffer_size": 674,
 				"line_ending": "Unix"
 			}
 		}
@@ -609,29 +755,30 @@
 	"expanded_folders":
 	[
 		"/Users/timofey/Projects/gadgetin",
-		"/Users/timofey/Projects/gadgetin/client",
-		"/Users/timofey/Projects/gadgetin/client/app",
-		"/Users/timofey/Projects/gadgetin/client/app/account",
-		"/Users/timofey/Projects/gadgetin/client/app/account/profile",
-		"/Users/timofey/Projects/gadgetin/client/app/people",
-		"/Users/timofey/Projects/gadgetin/client/components",
-		"/Users/timofey/Projects/gadgetin/client/components/api",
-		"/Users/timofey/Projects/gadgetin/client/components/auth",
-		"/Users/timofey/Projects/gadgetin/client/components/utils",
-		"/Users/timofey/Projects/gadgetin/server",
-		"/Users/timofey/Projects/gadgetin/server/api",
-		"/Users/timofey/Projects/gadgetin/server/api/user"
+		"/Users/timofey/Projects/gadgetin/client"
 	],
 	"file_history":
 	[
-		"/Users/timofey/Projects/gadgetin/client/components/auth/user.service.js",
-		"/Users/timofey/Projects/gadgetin/server/api/user/user.model.js",
-		"/Users/timofey/Projects/gadgetin/server/config/socketio.js",
+		"/Users/timofey/Projects/gadgetin/.travis.yml",
+		"/Users/timofey/Projects/gadgetin/protractor.conf.js",
+		"/Users/timofey/Projects/gadgetin/server/api/product/product.model.js",
 		"/Users/timofey/Projects/gadgetin/client/app/app.scss",
+		"/Users/timofey/Projects/gadgetin/server/api/user_product/index.js",
+		"/Users/timofey/Projects/gadgetin/server/api/user_product/product.model.js",
+		"/Users/timofey/Projects/gadgetin/server/api/user_product/user_product.model.js",
+		"/Users/timofey/Projects/gadgetin/server/api/user/user.schema.js",
+		"/Users/timofey/Projects/gadgetin/client/app/account/account.js",
+		"/Users/timofey/Projects/gadgetin/client/app/gadget/gadget.controller.js",
+		"/Users/timofey/Projects/gadgetin/client/components/utils/utils.js",
+		"/Users/timofey/Projects/gadgetin/client/components/header/header.html",
+		"/Users/timofey/Projects/gadgetin/client/components/header/header.controller.js",
+		"/Users/timofey/Projects/gadgetin/server/config/seed.js",
+		"/Users/timofey/Projects/gadgetin/server/api/user/user.model.js",
+		"/Users/timofey/Projects/gadgetin/client/components/auth/user.service.js",
+		"/Users/timofey/Projects/gadgetin/server/config/socketio.js",
 		"/Users/timofey/Projects/gadgetin/client/app/gadgets/gadgets.html",
 		"/Users/timofey/Projects/gadgetin/client/app/account/profile/profile.html",
 		"/Users/timofey/Projects/gadgetin/server/routes.js",
-		"/Users/timofey/Projects/gadgetin/client/components/header/header.html",
 		"/Users/timofey/Projects/gadgetin/client/app/gadgets/gadgets.controller.js",
 		"/Users/timofey/Projects/gadgetin/client/assets/_add_gadget_popup.html",
 		"/Users/timofey/Projects/gadgetin/client/app/app.js",
@@ -653,26 +800,20 @@
 		"/Users/timofey/Projects/gadgetin/client/app/account/signup/signup.html",
 		"/Users/timofey/Projects/gadgetin/server/api/thing/thing.socket.js",
 		"/Users/timofey/Projects/gadgetin/client/app/main/main.html",
-		"/Users/timofey/Projects/gadgetin/server/api/product/product.model.js",
 		"/Users/timofey/Projects/gadgetin/server/config/environment/test.js",
-		"/Users/timofey/Projects/gadgetin/server/config/seed.js",
 		"/Users/timofey/Projects/gadgetin/client/components/mongoose-error/mongoose-error.directive.js",
 		"/Users/timofey/Projects/gadgetin/server/config/local.env.js",
 		"/Users/timofey/Projects/gadgetin/gadgetin.sublime-project",
-		"/Users/timofey/Projects/gadgetin/client/components/header/header.controller.js",
 		"/Users/timofey/Projects/gadgetin/client/components/api/api.js",
 		"/Users/timofey/Projects/gadgetin/client/components/auth/auth.service.js",
 		"/Users/timofey/Projects/gadgetin/client/components/navbar/navbar.controller.js",
 		"/Users/timofey/Projects/gadgetin/server/api/user/index.js",
-		"/Users/timofey/Projects/gadgetin/client/components/utils/utils.js",
 		"/Users/timofey/Projects/gadgetin/client/app/account/login/login.controller.js",
-		"/Users/timofey/Projects/gadgetin/client/app/account/account.js",
 		"/Users/timofey/Projects/gadgetin/bower_with_bootstrap.json",
 		"/Users/timofey/Projects/gadgetin/client/app/account/login/login.scss",
 		"/Users/timofey/Projects/gadgetin/client/robots.txt",
 		"/Users/timofey/Projects/gadgetin/client/components/modal/modal.html",
 		"/Users/timofey/Projects/gadgetin/.tmp/tmp-templates.js",
-		"/Users/timofey/Projects/gadgetin/.travis.yml",
 		"/Users/timofey/Projects/gadgetin/.gitignore",
 		"/Users/timofey/Projects/gadgetin/client/.htaccess",
 		"/Users/timofey/Projects/gadgetin/server/app.js",
@@ -732,6 +873,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"src=\"img",
+			"img",
+			"Lenovo A8/A808t",
+			"body",
+			"font-size: 14px;",
+			"#page-wrapper .content-wrapper .news-line section:nth-child(2n) img ",
+			"user_product",
+			"lodash",
 			"404",
 			"#wrapper-header",
 			"input",
@@ -851,15 +1000,7 @@
 			"background",
 			"ordering",
 			"getClubFoursquareInfo",
-			"https://github.com/adamalbrecht/ngQuickDate/tree/master/dist\nhttps://github.com/adamalbrecht/ngQuickDate/tree/master/dist\ngetClubFoursquareInfo",
-			"service",
-			"<base href",
-			"$location",
-			"cards",
-			"discount-list__img",
-			"thumbnail",
-			"social-net",
-			"club_"
+			"https://github.com/adamalbrecht/ngQuickDate/tree/master/dist\nhttps://github.com/adamalbrecht/ngQuickDate/tree/master/dist\ngetClubFoursquareInfo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -867,6 +1008,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"src=\"assets/images/main",
+			"assets/images/main",
 			"?period=12mes",
 			"#/clubs/list",
 			"#/cards/list",
@@ -892,7 +1035,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -901,15 +1044,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3570,
+						"buffer_size": 3325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								259,
-								259
+								0,
+								0
 							]
 						],
 						"settings":
@@ -922,7 +1065,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 28,
 					"type": "text"
 				},
 				{
@@ -931,15 +1074,165 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1095,
+						"buffer_size": 1097,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								594,
-								594
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/app/account/profile/profile.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/app/account/profile/profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1720,
+								1720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 445.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server/api/product/products.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36490,
+								36490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 21165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/app/feed/feed.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/app/account/settings/settings.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
 							]
 						],
 						"settings":
@@ -956,109 +1249,32 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "client/app/gadget/gadget.controller.js",
+					"buffer": 7,
+					"file": "client/app/gadgets/gadgets.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 354,
+						"buffer_size": 1550,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								109,
-								121
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "client/app/account/account.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 937,
-						"regions":
-						{
-						},
-						"selection":
-						[
+								891,
+								891
+							],
 							[
-								617,
-								617
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "client/app/account/profile/profile.controller.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 844,
-						"regions":
-						{
-						},
-						"selection":
-						[
+								982,
+								982
+							],
 							[
-								796,
-								796
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "client/app/account/profile/profile.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2856,
-						"regions":
-						{
-						},
-						"selection":
-						[
+								1073,
+								1073
+							],
 							[
-								1265,
-								1265
+								1164,
+								1164
 							]
 						],
 						"settings":
@@ -1071,16 +1287,76 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "client/app/main/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "client/app/main/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "server/config/seed.js",
-					"semi_transient": false,
+					"buffer": 10,
+					"file": "client/app/main/main.controller.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 2067,
+						"buffer_size": 692,
 						"regions":
 						{
 						},
@@ -1098,27 +1374,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 21.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "client/app/people/people.html",
+					"buffer": 11,
+					"file": "client/assets/_add_gadget_popup.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1436,
+						"buffer_size": 2051,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								466,
-								466
+								1612,
+								1703
 							]
 						],
 						"settings":
@@ -1131,30 +1407,150 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "client/components/header/header.controller.js",
+					"buffer": 12,
+					"file": "client/components/header/header.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 644,
+						"buffer_size": 1845,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								332,
-								332
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "client/app/account/settings/settings.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1704,
+								1704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "client/app/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29360,
+								29360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12736.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "server/api/user/user.model.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1023,
+								1023
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 384.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "client/app/people/people.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -1165,67 +1561,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "client/components/header/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1782,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								1781
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "client/components/utils/utils.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 445,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								422,
-								422
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
+					"buffer": 17,
 					"file": "server/api/user/index.js",
 					"semi_transient": false,
 					"settings":
@@ -1249,11 +1585,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 18,
 					"file": "server/api/user/user.controller.js",
 					"semi_transient": false,
 					"settings":
@@ -1265,8 +1601,8 @@
 						"selection":
 						[
 							[
-								1481,
-								1481
+								1869,
+								1869
 							]
 						],
 						"settings":
@@ -1276,10 +1612,377 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1061.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "server/config/seed.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "server/api/user/comment.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								212
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "server/api/user/user_product.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3201,
+								3252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 258.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "karma.conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1470,
+								1470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "client/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2849,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										172,
+										178
+									],
+									[
+										513,
+										519
+									],
+									[
+										525,
+										531
+									],
+									[
+										832,
+										838
+									],
+									[
+										1192,
+										1198
+									],
+									[
+										1204,
+										1210
+									],
+									[
+										1544,
+										1550
+									],
+									[
+										1736,
+										1742
+									],
+									[
+										1936,
+										1942
+									],
+									[
+										2179,
+										2191
+									],
+									[
+										2210,
+										2222
+									],
+									[
+										2472,
+										2484
+									],
+									[
+										2485,
+										2497
+									],
+									[
+										2750,
+										2762
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								2757,
+								2757
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 742.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "server/config/socketio.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "server/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
 					"type": "text"
 				}
 			]
@@ -1327,7 +2030,7 @@
 	"project": "gadgetin.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1335,6 +2038,66 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"gad",
+				"client/app/gadgets/gadgets.html"
+			],
+			[
+				"app.s",
+				"client/app/app.scss"
+			],
+			[
+				"pe",
+				"client/app/people/people.html"
+			],
+			[
+				"pro",
+				"client/app/account/profile/profile.html"
+			],
+			[
+				"app",
+				"client/app/app.js"
+			],
+			[
+				"ka",
+				"karma.conf.js"
+			],
+			[
+				"inde",
+				"client/index.html"
+			],
+			[
+				"com",
+				"server/api/user/comment.js"
+			],
+			[
+				"user",
+				"server/api/user/user_product.js"
+			],
+			[
+				"pop",
+				"client/assets/_add_gadget_popup.html"
+			],
+			[
+				"api.js",
+				"client/components/api/api.js"
+			],
+			[
+				"see",
+				"server/config/seed.js"
+			],
+			[
+				"usr.co",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"user.co",
+				"server/api/user/user.controller.js"
+			],
+			[
+				"user.mo",
+				"server/api/user/user.model.js"
+			],
 			[
 				"user.",
 				"server/api/user/user.controller.js"
@@ -1356,28 +2119,12 @@
 				"server/routes.js"
 			],
 			[
-				"api.js",
-				"client/components/api/api.js"
-			],
-			[
 				"app.js",
 				"client/app/app.js"
 			],
 			[
-				"app",
-				"client/app/app.scss"
-			],
-			[
-				"ka",
-				"karma.conf.js"
-			],
-			[
 				"in",
 				"client/index.html"
-			],
-			[
-				"gad",
-				"client/app/gadgets/gadgets.html"
 			],
 			[
 				"soc",
@@ -1432,10 +2179,6 @@
 				"client/components/api/api.js"
 			],
 			[
-				"user.mo",
-				"server/api/user/user.model.js"
-			],
-			[
 				"ap",
 				"client/app/app.scss"
 			],
@@ -1456,20 +2199,8 @@
 				"client/components/header/header.html"
 			],
 			[
-				"pro",
-				"client/app/account/profile/profile.controller.js"
-			],
-			[
 				"nav",
 				"client/components/navbar/navbar.html"
-			],
-			[
-				"inde",
-				"client/index.html"
-			],
-			[
-				"user",
-				"server/api/user/user.controller.js"
 			],
 			[
 				"us",
@@ -1728,10 +2459,6 @@
 				"server/api/product/product.model.js"
 			],
 			[
-				"see",
-				"server/config/seed.js"
-			],
-			[
 				"api_i",
 				"src/abone_me/apps/api_views.py"
 			],
@@ -1822,30 +2549,6 @@
 			[
 				"ordc",
 				"src/abone_me/static/js/angular/app-cards/controllers/ordersCtrl.js"
-			],
-			[
-				"ngin",
-				"conf/production/nginx.conf"
-			],
-			[
-				"filh",
-				"src/abone_me/client/app/card_list/_filters.html"
-			],
-			[
-				"card_de",
-				"src/abone_me/client/app/card_detail/card_detail.controller.js"
-			],
-			[
-				"vi",
-				"src/abone_me/apps/views.py"
-			],
-			[
-				"ordermod",
-				"src/abone_me/apps/orders/models.py"
-			],
-			[
-				"util",
-				"src/abone_me/apps/orders/utils.py"
 			]
 		],
 		"width": 0.0

@@ -10,7 +10,8 @@ angular.module('gadgetinApp', [
   'restangular',
   'ngDialog',
   'smoothScroll',
-  'angularMoment'
+  'angularMoment',
+  'angularFileUpload'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider,
                     $httpProvider, RestangularProvider) {
@@ -20,7 +21,6 @@ angular.module('gadgetinApp', [
     $locationProvider.html5Mode(true);
     $httpProvider.interceptors.push('authInterceptor');
     RestangularProvider.setBaseUrl('/api');
-    // RestangularProvider.addRequestInterceptor('authInterceptor');
   })
 
   .factory('authInterceptor', function ($rootScope, $q,
