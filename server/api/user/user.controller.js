@@ -126,6 +126,7 @@ exports.updateUserProduct = function(req, res, next) {
   });
 };
 
+
 exports.createUserProductComment = function(req, res, next) {
   var userId = req.params.userId;
   var productId = req.params.productId;
