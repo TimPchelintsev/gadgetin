@@ -32,6 +32,13 @@ var all = {
   // List of user roles
   userRoles: ['guest', 'user', 'admin'],
 
+  //cloudinary settings
+  cloudinary: {
+    cloud_name: 'dzyvtmen1',
+    api_key: '929432583663515',
+    api_secret: 'ms6oI6G6SHfepwvDw0lNfbcjxEM'
+  },
+
   // MongoDB connection options
   mongo: {
     options: {
