@@ -117,6 +117,7 @@ exports.updateUserProduct = function(req, res, next) {
   User.findById(userId, function (err, user) {
     if (err) return next(err);
     if (!user) return res.send(401);
+    delete req.body.comments;  //NOTE: need to clarify this logic
     var product = user.products.id(productId);
     product = _.merge(product, req.body);
     user.save(function(err) {

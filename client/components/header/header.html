@@ -19,10 +19,9 @@
                         <!-- <li>{{profile.status}}</li> -->
                     </ul>
                     <ul class="menu">
-                        <li><a href="/feed">Feed</a></li>
-                        <li><a href="/gadgets">Gadgets</a></li>
-                        <li><a href="/people">People</a></li>
-
+                        <li><a ui-sref="feed" class="btn btn-lg" ui-sref-active="active">Feed</a></li>
+                        <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active">Gadgets</a></li>
+                        <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active">People</a></li>
                     </ul>
                     <button ng-click="changeView('gadgets')">New Gadget</button>
                     <div class="counters">
