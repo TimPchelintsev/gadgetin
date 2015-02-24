@@ -19,11 +19,11 @@
                         <li>{{profile.name}}</li>
                     </ul>
                     <ul class="menu" ng-if="isOwnPage()">
-                        <li><a ui-sref="feed" class="btn btn-lg" ui-sref-active="active">Feed</a></li>
-                        <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active">Gadgets</a></li>
-                        <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active">People</a></li>
+                        <li><a ui-sref="feed" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-send"></span> Feed</a></li>
+                        <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-phone"></span> Gadgets</a></li>
+                        <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-user"></span> People</a></li>
                     </ul>
-                    <button ng-click="changeView('gadgets')" ng-if="isOwnPage()">New Gadget</button>
+                    <button ng-click="changeView('gadgets')" class="btn btn-danger btn-lg" ng-if="isOwnPage()"><span class="glyphicon glyphicon-fire"></span> HOT</button>
                     <div class="counters">
                         <ul>
                             <li>{{profile.wishes.length}}</li>
@@ -47,7 +47,7 @@
         <div class="news-line">
 
 
-            <section ng-if="!profile.products.length" ng-cloak>
+            <section ng-if="isOwnPage() && !profile.products.length" ng-cloak>
                 <a ng-href="/gadgets"><img ng-src="assets/images/gadget_default1.jpg"/></a>
                 <article class="right-article">
                     <div class="product-header">

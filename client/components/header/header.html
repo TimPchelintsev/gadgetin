@@ -18,12 +18,12 @@
                         <li>{{profile.name}}</li>
                         <!-- <li>{{profile.status}}</li> -->
                     </ul>
-                    <ul class="menu">
-                        <li><a ui-sref="feed" class="btn btn-lg" ui-sref-active="active">Feed</a></li>
-                        <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active">Gadgets</a></li>
-                        <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active">People</a></li>
+                   <ul class="menu">
+                        <li><a ui-sref="feed" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-send"></span> Feed</a></li>
+                        <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-phone"></span> Gadgets</a></li>
+                        <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-user"></span> People</a></li>
                     </ul>
-                    <button ng-click="changeView('gadgets')">New Gadget</button>
+                    <button ng-click="changeView('gadgets')" class="btn btn-success btn-lg"><i class="fa fa-bars fa-lg"></i></button>
                     <div class="counters">
                         <ul>
                             <li>{{profile.wishes.length}}</li>
