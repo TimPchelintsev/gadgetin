@@ -57,10 +57,10 @@
             </section>
 
             <section ng-repeat="product in profile.products">
-                <a ng-href="/gadgets/{{product._id}}"><img ng-src="{{product.imageUrl}}"/></a>
+                <a href="#"><img ng-src="{{product.imageUrl}}"/></a>
                 <article class="right-article">
                     <div class="product-header">
-                        <h2><a ng-href="/gadgets/{{product._id}}">{{product.company}} {{product.name}}</a></h2>
+                        <h2><a href="#">{{product.company}} {{product.name}}</a></h2>
                         <div><span am-time-ago="product.created"></span></div>
                         <br>
                         <div ng-hide="product.edit || !isOwnPage()"><a href ng-click="product.edit = true">Edit</a></div>
@@ -82,6 +82,7 @@
                             <li><a href="#"><img src="img/fotouser/DSC_4451.JPG" alt="user-1"></a></li>
                         </ul>
                     </div> -->
+
                     <div class="comment-for-like">
                         <div class="comment-device-like" ng-repeat="comment in product.comments">
                             <a ng-href="{{comment.author.profileUrl}}"><img ng-src="{{comment.author.imageUrl}}" alt="{{comment.author.name}}"></a>
