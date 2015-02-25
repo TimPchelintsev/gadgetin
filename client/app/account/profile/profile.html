@@ -23,7 +23,7 @@
                         <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-phone"></span> Gadgets</a></li>
                         <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-user"></span> People</a></li>
                     </ul>
-                    <button ng-click="changeView('gadgets')" class="btn btn-danger btn-lg" ng-if="isOwnPage()"><span class="glyphicon glyphicon-fire"></span> HOT</button>
+                    <button ng-click="changeView('settings')" ng-if="isOwnPage()" class="btn btn-success btn-lg"><i class="fa fa-bars fa-lg"></i></button>
                     <div class="counters">
                         <ul>
                             <li>{{profile.wishes.length}}</li>

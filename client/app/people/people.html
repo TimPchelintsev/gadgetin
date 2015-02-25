@@ -2,35 +2,40 @@
 
 <div id="page-wrapper">
     <input type="text" placeholder="Enter user name, email or products" ng-model="search.query">
-    <section class="product-char" ng-repeat="user in users | filter:search.query">
-        <div class="product-content">
-            <img ng-src="{{user.imageUrl}}"/>
-            <div class="product-prop">
-                <h2><a ng-href="{{user.profileUrl}}">{{user.name}}</a></h2>
-                <!-- <pre>{{user | json}}</pre> -->
-                <div class="likes-info">
-                    <div ng-if="!user.products.length">No gadgets yet</div>
-                    <ul>
-                        <!-- <li><a href="#">...</a></li> -->
-                        <li style="float: left;" ng-repeat="product in user.products"><a href="#"><img src="{{product.imageUrl}}" alt="{{product.name}}"></a><li>
-                    </ul>
+    <ul class="gadgets">
+        <li ng-repeat="user in users | filter:search.query">
+            <section class="product-char">
+                <div class="product-content">
+                    <img ng-src="{{user.imageUrl}}"/>
+                    <div class="product-prop">
+                        <h2><a ng-href="{{user.profileUrl}}">{{user.name}}</a></h2>
+                        <!-- <pre>{{user | json}}</pre> -->
+                        <div class="likes-info">
+                            <div ng-if="!user.products.length">No gadgets yet</div>
+                            <ul>
+                                <!-- <li><a href="#">...</a></li> -->
+                                <li style="float: left;" ng-repeat="product in user.products"><a href="#"><img src="{{product.imageUrl}}" alt="{{product.name}}"></a><li>
+                            </ul>
+                        </div>
+                        <!-- <div>
+                            <span ng-repeat="spec in product.specs | filter: {isMain:true} | orderBy:'orderIndex'">
+                                <span>{{spec.name}}</span>: <span>{{spec.value}}</span>
+                            </span>
+                        </div> -->
+                        <!-- <ul>
+                            <li><a href="#"><img src="/img/fotouser/128.jpg" /></a></li>
+                            <li><a href="#"><img src="/img/fotouser/poroshenko.png" /></a></li>
+                            <li><a href="#"><img src="/img/fotouser/DSC_44421.jpg" /></a></li>
+                            <li><a href="#"><img src="/img/fotouser/sobchak.jpeg" /></a></li>
+                        </ul> -->
+                    </div>
                 </div>
-                <!-- <div>
-                    <span ng-repeat="spec in product.specs | filter: {isMain:true} | orderBy:'orderIndex'">
-                        <span>{{spec.name}}</span>: <span>{{spec.value}}</span>
-                    </span>
-                </div> -->
-                <!-- <ul>
-                    <li><a href="#"><img src="/img/fotouser/128.jpg" /></a></li>
-                    <li><a href="#"><img src="/img/fotouser/poroshenko.png" /></a></li>
-                    <li><a href="#"><img src="/img/fotouser/DSC_44421.jpg" /></a></li>
-                    <li><a href="#"><img src="/img/fotouser/sobchak.jpeg" /></a></li>
-                </ul> -->
-            </div>
-        </div>
-        <!-- <a class="oplus" href ng-click="clickToOpen(product)"><i class="fa fa-plus fa-2x"></i></a> -->
+                <!-- <a class="oplus" href ng-click="clickToOpen(product)"><i class="fa fa-plus fa-2x"></i></a> -->
 
-    </section>
+            </section>
+        </li>
+    </ul>
+
 
     <footer>
         <!-- <h3>More</h3>

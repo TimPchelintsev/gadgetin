@@ -16,7 +16,7 @@ angular.module('gadgetinApp')
         })
         .then( function() {
           // Account created, redirect to home
-          $location.path('/');
+          $location.path('/profile');
         })
         .catch( function(err) {
           err = err.data;
