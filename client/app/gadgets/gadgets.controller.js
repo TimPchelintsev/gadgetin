@@ -30,7 +30,7 @@ angular.module('gadgetinApp')
         product.feedback = {};
         $scope.currentProduct = product;
         var dialog = ngDialog.open(
-          {templateUrl: '/assets/_add_gadget_popup.html',
+          {templateUrl: 'assets/popups/_add_gadget_popup.html',
            scope: $scope,
            showClose: false,
            appendTo: '#page-wrapper'}
