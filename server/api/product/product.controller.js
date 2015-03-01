@@ -17,10 +17,11 @@ exports.index = function(req, res) {
       filter[param] = req.query[param];   // probably want to check in the loop
   }
 
-  Product.find(filter, function (err, things) {
+  Product.find(filter, function (err, products) {
     if(err) { return handleError(res, err); }
-    return res.json(200, things);
+    return res.json(200, products);
   });
+
 };
 
 // Get a single product

@@ -1,5 +1,5 @@
 <!-- <div ng-include="'components/header/header.html'"></div> -->
-
+<div id="top"></div>
 <div id="wrapper-header">
     <div class="header">
         <header>
@@ -20,10 +20,10 @@
                     </ul>
                     <ul class="menu" ng-if="isOwnPage()">
                         <li><a ui-sref="feed" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-send"></span> Feed</a></li>
-                        <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-phone"></span> Gadgets</a></li>
+                        <li><a ui-sref="profile" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-phone"></span> Gadgets</a></li>
                         <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-user"></span> People</a></li>
                     </ul>
-                    <button ng-click="changeView('settings')" ng-if="isOwnPage()" class="btn btn-success btn-lg"><i class="fa fa-bars fa-lg"></i></button>
+                    <button ng-click="changeView('gadgets')" ng-if="isOwnPage()" class="btn btn-success btn-lg">Add <i class="glyphicon glyphicon-phone"></i></button>
                     <div class="counters">
                         <ul>
                             <li>{{profile.wishes.length}}</li>

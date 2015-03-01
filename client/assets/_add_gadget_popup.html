@@ -3,24 +3,7 @@
         <img ng-src="{{currentProduct.imageUrl}}"-/>
         <div class="product-description">
             <h2>{{currentProduct.brand}} {{currentProduct.name}}</h2>
-                <div class=hello>
-                    <div class="star-rating js-star-rating">
-                      <input class="star-rating__input" type="radio" name="rating" value="1"><i class="star-rating__star"></i>
-                      <input class="star-rating__input" type="radio" name="rating" value="2"><i class="star-rating__star"></i>
-                      <input class="star-rating__input" type="radio" name="rating" value="3"><i class="star-rating__star"></i>
-                      <input class="star-rating__input" type="radio" name="rating" value="4"><i class="star-rating__star"></i>
-                      <input class="star-rating__input" type="radio" name="rating" value="5"><i class="star-rating__star"></i>
-                      <div class="current-rating current-rating--3-5 js-current-rating"><i class="star-rating__star">AAA</i></div>
-                    </div>
-                </div>
             <form>
-                <ul class="rich-editor">
-                    <li>Bold</li>
-                    <li>Italic</li>
-                    <!-- <li><i class="fa fa-list"></i>Bullets</li>
-                    <li><i class="fa fa-list-ol"></i>Numbers</li> -->
-                </ul>
-                <div id="drag-drop"><i class="fa fa-paperclip"></i>To attach files drag & grop here or <a href="#">select files from your computer...</a></div>
                 <textarea type="text" ng-model="currentProduct.feedback.text">
 
                 </textarea>

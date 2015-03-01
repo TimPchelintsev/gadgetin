@@ -1,3 +1,4 @@
+<div id="top"></div>
 <div id="wrapper-header" ng-controller="HeaderCtrl">
     <div class="header">
         <header>
@@ -12,7 +13,8 @@
             <div class="heading-block" ng-if="isLoggedIn()">
                 <div class="avatar-wrapper">
                     <div id="avatar">
-                        <a href="/profile"><img ng-src="{{profile.imageUrl}}" alt="{{profile.name}}"></a>
+                        <a ui-sref="settings" ng-if="$state.current.name != 'settings'"><img ng-src="{{profile.imageUrl}}" alt="{{profile.name}}"></a>
+                        <a ui-sref="profile" ng-if="$state.current.name == 'settings'"><img ng-src="{{profile.imageUrl}}" alt="{{profile.name}}"></a>
                     </div>
                     <ul id="name">
                         <li>{{profile.name}}</li>
@@ -20,10 +22,10 @@
                     </ul>
                    <ul class="menu">
                         <li><a ui-sref="feed" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-send"></span> Feed</a></li>
-                        <li><a ui-sref="gadgets" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-phone"></span> Gadgets</a></li>
+                        <li><a ui-sref="profile" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-phone"></span> Gadgets</a></li>
                         <li><a ui-sref="people" class="btn btn-lg" ui-sref-active="active"><span class="glyphicon glyphicon-user"></span> People</a></li>
                     </ul>
-                    <button ng-click="changeView('settings')" class="btn btn-success btn-lg"><i class="fa fa-bars fa-lg"></i></button>
+                    <button ng-click="changeView('gadgets')" class="btn btn-success btn-lg">Add <i class="glyphicon glyphicon-phone"></i></button>
                     <div class="counters">
                         <ul>
                             <li>{{profile.wishes.length}}</li>
