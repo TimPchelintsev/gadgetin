@@ -1301,3 +1301,24 @@ label {
   width: 90%; }
 .current-rating.current-rating--5 .star-rating__star {
   width: 100%; }
+
+.back-to-top {
+  position: fixed;
+  bottom: 2em;
+  right: 0px;
+  text-decoration: none;
+  color: #000000;
+  font-size: 12px;
+  padding: 1em;
+  // display: none;
+  cursor: pointer;
+}
+
+.back-to-top:hover {
+  background-color: rgba(135, 135, 135, 0.50);
+}
+
+.back-to-top img {
+  height: 20px;
+  width: 20px;
+}

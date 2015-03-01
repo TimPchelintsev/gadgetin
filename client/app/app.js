@@ -61,4 +61,9 @@ angular.module('gadgetinApp', [
         }
       });
     });
-  });
+  })
+  .controller('IndexCtrl', ['$scope', '$window', function($scope, $window) {
+    $scope.scrollTopClick = function() {
+      $window.scrollTo(0, 0);
+    };
+  }]);
