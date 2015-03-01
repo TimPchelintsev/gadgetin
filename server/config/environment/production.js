@@ -20,5 +20,6 @@ module.exports = {
             process.env.OPENSHIFT_MONGODB_DB_URL+process.env.OPENSHIFT_APP_NAME ||
             // 'mongodb://localhost/gadgetinapp'
             'mongodb://gadgetin:gadgetin@ds053370.mongolab.com:53370/gadgetin-dev'
-  }
+  },
+  seedDB: true
 };
