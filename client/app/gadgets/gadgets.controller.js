@@ -9,8 +9,22 @@ angular.module('gadgetinApp')
     $scope.search = {};
     $scope.showLimit = 2;
 
-    $scope.search.change = function() {
+    $scope.search.change = _.debounce(function(newVal) {
       $scope.showLimit = 2;
+      console.log(newVal);
+      api.searchProducts(newVal).then(
+        function(res) {
+          console.log(res);
+          $scope.products = res.data;
+      });
+
+    }, 300);
+
+    $scope.excludeEmpty = function(obj) {
+      if (_.isEmpty(obj)) {
+        return false;
+      }
+      return true;
     };
 
     $scope.showMore = function() {
@@ -21,9 +35,18 @@ angular.module('gadgetinApp')
       }, 10);
     };
 
-    api.getProducts().then(
-      function(data) {
-        $scope.products = data;
+    // api.getProducts().then(
+    //   function(data) {
+    //     $scope.products = data.documents;
+    //     console.log(data.documents);
+    //     // console.log(data);
+    // });
+
+
+    api.searchProducts('Apple notebooks').then(
+      function(res) {
+        console.log(res.data);
+        $scope.products = res.data;
     });
 
     $scope.clickToOpen = function(product) {
@@ -43,7 +66,7 @@ angular.module('gadgetinApp')
                   category: product.category,
                   name: product.name,
                   company: product.company,
-                  imageUrl: product.imageUrl,
+                  images: product.images,
                   specs: product.specs,
                   feedback: {text: product.feedback.text, rating: product.feedback.rating}
                 };

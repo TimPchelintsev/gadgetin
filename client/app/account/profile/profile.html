@@ -57,10 +57,10 @@
             </section>
 
             <section ng-repeat="product in profile.products">
-                <a href="#"><img ng-src="{{product.imageUrl}}"/></a>
+                <a href="#"><img ng-src="{{product.images[0]}}"/></a>
                 <article class="right-article">
                     <div class="product-header">
-                        <h2><a href="#">{{product.company}} {{product.name}}</a></h2>
+                        <h2><a href="#">{{product.name}}</a></h2>
                         <div><span am-time-ago="product.created"></span></div>
                         <br>
                         <div ng-hide="product.edit || !isOwnPage()"><a href ng-click="product.edit = true">Edit</a></div>

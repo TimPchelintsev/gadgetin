@@ -7,6 +7,7 @@
 'use strict';
 
 var _ = require('lodash');
+var unirest = require('unirest');
 var Product = require('./product.model');
 
 // Get list of products
@@ -14,13 +15,15 @@ exports.index = function(req, res) {
 
   var filter =  {};
   for ( var param in req.query ) {
-      filter[param] = req.query[param];   // probably want to check in the loop
+      if (param !== 'page') {
+        filter[param] = req.query[param];   // probably want to check in the loop
+      }
   }
-
-  Product.find(filter, function (err, products) {
+  var page = req.query.page || 1;
+  Product.findPaginated(filter, function (err, products) {
     if(err) { return handleError(res, err); }
     return res.json(200, products);
-  });
+  }, 100, page);
 
 };
 
@@ -30,6 +33,17 @@ exports.show = function(req, res) {
     if(err) { return handleError(res, err); }
     if(!product) { return res.send(404); }
     return res.json(product);
+  });
+};
+
+exports.search = function(req, res) {
+  console.log(req.query.q);
+  return unirest.get('https://dev.selectinity.com/api/v1/products/search')
+  .header('Accept', 'application/json')
+  .query({q: req.query.q})
+  .end(function (response) {
+    console.log(response.body);
+    res.json(response.body);
   });
 };
 

@@ -6,6 +6,7 @@ angular.module('gadgetinApp')
       .state('feed', {
         url: '/feed',
         templateUrl: 'app/feed/feed.html',
-        controller: 'FeedCtrl'
+        controller: 'FeedCtrl',
+        authenticate: true
       });
   });

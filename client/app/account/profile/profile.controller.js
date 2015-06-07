@@ -27,6 +27,7 @@ angular.module('gadgetinApp')
       utils.changeView('/login');
     };
     $scope.submit = function(product, _text) {
+      if (_.isEmpty(_text)) {return;}
       var comment = {
         author: $scope.currentUser._id,
         text: _text,

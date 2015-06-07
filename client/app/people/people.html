@@ -14,7 +14,7 @@
                             <div ng-if="!user.products.length">No gadgets yet</div>
                             <ul>
                                 <!-- <li><a href="#">...</a></li> -->
-                                <li style="float: left;" ng-repeat="product in user.products"><a href="#"><img src="{{product.imageUrl}}" alt="{{product.name}}"></a><li>
+                                <li style="float: left;" ng-repeat="product in user.products"><a href="#"><img src="{{product.images[0]}}" alt="{{product.name}}"></a><li>
                             </ul>
                         </div>
                         <!-- <div>

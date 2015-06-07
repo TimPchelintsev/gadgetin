@@ -6,11 +6,29 @@ var CommentSchema = require('./comment').schema;
 
 var UserProductSchema = new Schema({
   relatedProduct: Schema.Types.ObjectId,
-  category: String,
   name: String,
-  company: String,
-  imageUrl: String,
-  specs: [Schema.Types.Mixed],
+  brand: String,
+  category: {
+    en: String,
+    ua: String,
+    ru: String
+  },
+  images: [String],
+  specs: {
+    es_indexed: false,
+    en: [{
+      name: String,
+      value: String
+    }],
+    ua: [{
+      name: String,
+      value: String
+    }],
+    ru: [{
+      name: String,
+      value: String
+    }]
+  },
   comments: [CommentSchema],
   feedback: {text: String, rating: Number},
   created: {type: Date, default: Date.now},

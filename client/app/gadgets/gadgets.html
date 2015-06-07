@@ -1,14 +1,14 @@
 <div ng-include="'components/header/header.html'"></div>
 
 <div id="page-wrapper">
-    <input type="text" placeholder="Enter gadget name, brand or specs" ng-model="search.query" ng-change="search.change()">
-    <section class="product-char" ng-repeat="product in products | filter:search.query | limitTo: showLimit">
+    <input type="text" placeholder="Enter gadget name, brand or specs" ng-model="search.query" ng-change="search.change(search.query)">
+    <section class="product-char" ng-repeat="product in products | filter:excludeEmpty | limitTo: showLimit">
         <div class="product-content" id="product-{{$index + 1}}">
-            <img ng-src="{{product.imageUrl}}"/>
+            <img ng-src="{{product.images[0]}}"/>
             <div class="product-prop">
-                <h2>{{product.company}} {{product.name}}</h2>
+                <h2>{{product.name}}</h2>
                 <div>
-                    <span ng-repeat="spec in product.specs | filter: {isMain:true} | orderBy:'orderIndex'">
+                    <span ng-repeat="spec in product.specs.en | limitTo:4">
                         <span>{{spec.name}}</span>: <span>{{spec.value}}</span>
                     </span>
                 </div>

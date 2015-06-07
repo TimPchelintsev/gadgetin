@@ -1,8 +1,8 @@
 <div class="ngdialog ngdialog-theme-plain">
     <div class="wrapper">
-        <img ng-src="{{currentProduct.imageUrl}}"-/>
+        <img ng-src="{{currentProduct.images[0]}}"-/>
         <div class="product-description">
-            <h2>{{currentProduct.brand}} {{currentProduct.name}}</h2>
+            <h2>{{currentProduct.name}}</h2>
             <form>
                 <textarea type="text" ng-model="currentProduct.feedback.text">
 

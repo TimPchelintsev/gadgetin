@@ -1,9 +1,11 @@
 'use strict';
 
 angular.module('gadgetinApp')
-  .factory('api', function (Restangular) {
+  .factory('api', function (Restangular, $http) {
     var baseProducts = Restangular.all('products');
     var baseUsers = Restangular.all('users');
+
+    // var abortGet;
 
     Restangular.extendModel('users', function(user) {
       user.addProduct = function(product) {
@@ -31,11 +33,27 @@ angular.module('gadgetinApp')
       getCurrentUser: function() {
         return Restangular.one('users', 'me').get();
       },
-      getProducts: function() {
-        return baseProducts.getList();
+      getProducts: function(_page) {
+
+        return baseProducts.customGET('', {page: _page});
       },
       getProduct: function(id) {
         return Restangular.one('products', id).get();
+      },
+      searchProducts: function(query) {
+        console.log(query);
+        var params = {q: query};
+        return baseProducts.customGET('search', params);
+      },
+      _searchProducts: function(query) {
+        console.log(query);
+        // if (abortGet) abortGet.resolve();
+        // abortGet = $q.defer();
+        return $http({
+          url: 'http://staging.selectinity.com/api/v1/products/search',
+          method: 'GET',
+          params: {q: query}
+        });
       }
     };
 
